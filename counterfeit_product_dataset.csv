@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Brand,Category,Price,Discount_Percentage,Seller_ID,Seller_Rating,Total_Sales,Return_Rate,Seller_Verified,Customer_Reviews,Review_Sentiment,Product_Rating,Number_of_Reviews,Image_Similarity_Score,Logo_Recognition,Watermark_Detection,Manufacturing_Country,QR_Code_Availability,Reported_As_Fake_By_Users,Price_Anomaly,Keyword_Mismatch,Fraudulent_Seller_Flag,Is_Counterfeit
+P0001,Ray-Ban Sunglasses,Ray-Ban,Clothing,81265,1,S0001,1.5,6142,0.45,No,I love this product!,Neutral,1.1,4923,0.51,Yes,No,USA,Yes,331,No,Yes,No,0
+P0002,Adidas T-Shirt,Nike,Clothing,74538,69,S0002,3.5,9334,0.39,No,Would not recommend this seller.,Neutral,4.1,2331,0.06,No,No,Vietnam,No,204,Yes,No,No,0
+P0003,Rolex Watch,Adidas,Clothing,52893,16,S0003,4.1,6598,0.39,No,Seller is reliable and product is genuine.,Negative,3.4,4687,0.07,Yes,Yes,USA,No,364,No,No,Yes,1
+P0004,Adidas T-Shirt,Rolex,Clothing,66581,27,S0004,3.6,3321,0.23,No,I love this product!,Negative,3.8,1903,0.57,No,No,Vietnam,Yes,489,No,Yes,Yes,1
+P0005,Adidas T-Shirt,Rolex,Clothing,29930,65,S0005,3.1,6058,0.2,Yes,Packaging looks authentic.,Neutral,4.4,4014,0.57,No,No,USA,Yes,38,Yes,Yes,Yes,1
+P0006,Apple iPhone,Nike,Shoes,76032,34,S0006,1.2,6256,0.15,No,Best deal in the market!,Positive,4.2,4671,0.88,Yes,Yes,China,No,88,Yes,No,No,0
+P0007,Rolex Watch,Ray-Ban,Clothing,28288,4,S0007,4.9,997,0.03,Yes,Great quality product!,Negative,4.8,4988,0.56,No,No,India,No,429,No,No,No,1
+P0008,Rolex Watch,Ray-Ban,Shoes,96005,64,S0008,4.2,3331,0.11,No,Not the original product.,Neutral,3.1,2060,0.96,No,No,India,No,255,No,Yes,No,1
+P0009,Rolex Watch,Adidas,Clothing,49043,39,S0009,2.2,4625,0.12,Yes,Not the original product.,Neutral,3.0,141,0.05,No,Yes,Germany,Yes,479,Yes,Yes,Yes,0
+P0010,Adidas T-Shirt,Nike,Accessories,14419,55,S0010,4.9,8375,0.24,No,Looks fake compared to original.,Neutral,2.6,1790,0.1,Yes,No,China,Yes,253,No,No,No,1
+P0011,Ray-Ban Sunglasses,Rolex,Electronics,69846,35,S0011,3.4,3751,0.37,No,Satisfactory purchase.,Neutral,1.6,3627,0.04,No,No,India,Yes,215,Yes,Yes,Yes,0
+P0012,Rolex Watch,Ray-Ban,Shoes,96622,44,S0012,3.3,3062,0.24,Yes,Packaging looks authentic.,Neutral,3.3,17,0.19,No,No,Germany,No,367,Yes,No,Yes,1
+P0013,Adidas T-Shirt,Nike,Clothing,40474,22,S0013,4.0,6584,0.03,No,I love this product!,Neutral,2.1,4349,0.54,Yes,Yes,China,No,302,No,Yes,Yes,1
+P0014,Apple iPhone,Ray-Ban,Accessories,16871,46,S0014,4.2,736,0.48,No,Satisfactory purchase.,Negative,4.7,465,0.65,Yes,Yes,India,No,171,Yes,No,Yes,1
+P0015,Ray-Ban Sunglasses,Ray-Ban,Electronics,45584,30,S0015,3.6,3770,0.47,No,Best deal in the market!,Neutral,3.3,4472,0.05,Yes,No,USA,Yes,136,Yes,No,Yes,1
+P0016,Apple iPhone,Rolex,Shoes,30129,10,S0016,1.5,5816,0.39,Yes,The logo is slightly different.,Neutral,3.4,1828,0.95,Yes,No,Vietnam,Yes,487,Yes,Yes,No,0
+P0017,Ray-Ban Sunglasses,Apple,Electronics,51684,9,S0017,2.4,1885,0.5,No,Worth the price.,Neutral,2.4,3029,0.84,Yes,No,China,No,497,No,No,No,0
+P0018,Adidas T-Shirt,Adidas,Accessories,62416,66,S0018,4.7,7003,0.27,Yes,Not the original product.,Neutral,1.2,520,0.3,No,Yes,Germany,Yes,470,Yes,Yes,Yes,1
+P0019,Nike Shoes,Adidas,Shoes,74472,13,S0019,1.9,4043,0.48,No,Packaging looks authentic.,Neutral,1.1,90,0.08,No,Yes,China,No,383,No,Yes,No,0
+P0020,Ray-Ban Sunglasses,Rolex,Electronics,62687,9,S0020,2.5,5453,0.04,No,Seller is reliable and product is genuine.,Positive,2.7,4816,0.17,No,Yes,Germany,Yes,177,No,Yes,No,1
+P0021,Apple iPhone,Ray-Ban,Clothing,13484,0,S0021,2.7,999,0.18,Yes,Packaging looks authentic.,Neutral,1.3,2852,0.13,Yes,No,China,No,76,No,Yes,Yes,1
+P0022,Adidas T-Shirt,Nike,Shoes,33539,4,S0022,2.8,3754,0.11,No,Worth the price.,Neutral,3.4,2844,0.12,No,No,Germany,Yes,187,Yes,No,Yes,1
+P0023,Ray-Ban Sunglasses,Ray-Ban,Electronics,85931,19,S0023,3.5,8621,0.1,No,Worth the price.,Neutral,4.5,4726,0.52,Yes,No,India,Yes,479,Yes,Yes,No,1
+P0024,Nike Shoes,Rolex,Accessories,84191,7,S0024,4.8,603,0.07,Yes,Definitely a counterfeit item.,Neutral,4.5,1885,0.25,Yes,No,USA,No,497,No,Yes,No,1
+P0025,Nike Shoes,Adidas,Accessories,59106,42,S0025,2.0,1784,0.31,No,Cheap materials used.,Neutral,3.6,4172,0.36,No,No,India,No,14,No,Yes,No,1
+P0026,Rolex Watch,Ray-Ban,Shoes,11116,0,S0026,1.5,945,0.39,Yes,Packaging looks authentic.,Neutral,1.8,926,0.99,Yes,Yes,USA,No,291,Yes,Yes,No,0
+P0027,Rolex Watch,Adidas,Electronics,50572,56,S0027,1.8,3818,0.29,Yes,The logo is slightly different.,Neutral,4.5,3735,0.68,Yes,No,India,No,496,No,No,Yes,0
+P0028,Apple iPhone,Nike,Shoes,25074,63,S0028,4.5,341,0.07,Yes,Satisfactory purchase.,Neutral,4.5,970,0.95,No,No,India,No,318,No,Yes,No,1
+P0029,Ray-Ban Sunglasses,Adidas,Shoes,3930,27,S0029,3.6,7932,0.41,No,Worth the price.,Neutral,1.8,1095,0.14,Yes,No,China,Yes,324,Yes,No,Yes,0
+P0030,Ray-Ban Sunglasses,Adidas,Electronics,13176,36,S0030,2.1,2712,0.32,Yes,Best deal in the market!,Neutral,3.9,3196,0.38,Yes,Yes,Vietnam,No,213,No,No,Yes,1
+P0031,Rolex Watch,Apple,Electronics,11316,46,S0031,4.3,5899,0.19,Yes,Would not recommend this seller.,Neutral,2.1,1405,0.55,No,No,Germany,No,207,Yes,No,No,0
+P0032,Ray-Ban Sunglasses,Apple,Clothing,33233,36,S0032,4.4,5064,0.34,No,Satisfactory purchase.,Negative,4.2,3365,0.08,Yes,Yes,Germany,No,168,Yes,Yes,No,0
+P0033,Ray-Ban Sunglasses,Apple,Electronics,86180,48,S0033,4.4,3878,0.13,Yes,Would not recommend this seller.,Negative,5.0,4291,0.0,Yes,Yes,Germany,Yes,329,No,Yes,No,0
+P0034,Nike Shoes,Adidas,Accessories,2550,43,S0034,4.7,4210,0.17,No,Worth the price.,Neutral,1.1,3983,0.67,No,Yes,USA,No,279,Yes,Yes,Yes,1
+P0035,Rolex Watch,Rolex,Shoes,34433,55,S0035,2.0,211,0.46,No,Satisfactory purchase.,Neutral,4.6,4324,0.64,No,Yes,Germany,No,465,Yes,Yes,Yes,0
+P0036,Adidas T-Shirt,Adidas,Shoes,25451,27,S0036,4.0,2507,0.15,No,Best deal in the market!,Neutral,3.5,4014,0.41,No,Yes,Germany,No,304,Yes,No,Yes,1
+P0037,Rolex Watch,Rolex,Accessories,32913,5,S0037,2.8,1852,0.23,No,Suspicious branding on packaging.,Neutral,4.9,4557,0.49,No,No,China,Yes,145,No,No,Yes,1
+P0038,Adidas T-Shirt,Rolex,Electronics,35301,60,S0038,4.4,9111,0.45,Yes,Looks fake compared to original.,Neutral,2.9,4714,0.42,Yes,No,India,Yes,262,No,Yes,No,1
+P0039,Nike Shoes,Apple,Accessories,56119,19,S0039,3.9,4668,0.35,Yes,Great quality product!,Neutral,4.4,3093,0.02,Yes,Yes,Germany,No,3,No,Yes,Yes,0
+P0040,Apple iPhone,Ray-Ban,Accessories,33413,1,S0040,4.1,7554,0.03,Yes,The product stopped working in 2 days.,Neutral,1.2,4160,0.34,No,Yes,Vietnam,Yes,89,Yes,Yes,Yes,0
+P0041,Ray-Ban Sunglasses,Nike,Clothing,41100,36,S0041,3.6,7728,0.07,Yes,Highly recommended!,Neutral,2.3,2075,0.18,Yes,Yes,Germany,No,452,Yes,Yes,No,0
+P0042,Nike Shoes,Apple,Accessories,58275,19,S0042,1.7,780,0.0,Yes,Packaging looks authentic.,Neutral,1.3,285,0.1,Yes,No,USA,Yes,59,No,Yes,Yes,1
+P0043,Ray-Ban Sunglasses,Apple,Shoes,91316,25,S0043,3.2,3165,0.32,No,Looks fake compared to original.,Negative,4.9,4934,0.96,No,No,USA,No,310,No,Yes,Yes,1
+P0044,Apple iPhone,Ray-Ban,Accessories,90593,28,S0044,4.9,1638,0.22,Yes,Highly recommended!,Neutral,4.3,4927,0.6,No,Yes,USA,Yes,15,Yes,Yes,No,0
+P0045,Apple iPhone,Nike,Shoes,35900,0,S0045,4.7,396,0.07,Yes,Seller is reliable and product is genuine.,Neutral,4.4,1188,0.73,Yes,No,Germany,No,226,No,No,Yes,1
+P0046,Nike Shoes,Adidas,Shoes,4994,34,S0046,1.2,6041,0.48,Yes,Highly recommended!,Negative,4.8,3970,0.32,No,No,China,No,473,No,No,Yes,0
+P0047,Apple iPhone,Adidas,Shoes,81188,69,S0047,1.7,6449,0.26,No,Seller is reliable and product is genuine.,Negative,1.3,2966,0.39,No,Yes,Vietnam,Yes,465,No,No,Yes,0
+P0048,Adidas T-Shirt,Apple,Electronics,89931,58,S0048,1.5,6411,0.12,No,Great quality product!,Neutral,2.5,4320,0.24,No,Yes,Germany,No,28,No,No,Yes,0
+P0049,Apple iPhone,Nike,Clothing,75191,68,S0049,3.9,4018,0.25,Yes,Worth the price.,Neutral,1.3,784,0.1,Yes,No,China,No,150,No,Yes,No,0
+P0050,Ray-Ban Sunglasses,Apple,Shoes,97919,32,S0050,4.3,2476,0.34,No,I love this product!,Neutral,1.8,950,0.18,No,No,China,No,244,Yes,Yes,Yes,1
+P0051,Ray-Ban Sunglasses,Rolex,Shoes,43501,50,S0051,1.9,2292,0.04,Yes,The logo is slightly different.,Negative,1.9,3940,0.8,Yes,No,Germany,No,269,No,Yes,No,0
+P0052,Ray-Ban Sunglasses,Apple,Electronics,67864,11,S0052,3.0,1866,0.14,Yes,Suspicious branding on packaging.,Neutral,2.9,45,0.68,Yes,Yes,Germany,Yes,78,No,Yes,Yes,0
+P0053,Ray-Ban Sunglasses,Apple,Shoes,45528,19,S0053,4.4,7990,0.4,No,Highly recommended!,Neutral,2.1,1811,0.55,Yes,Yes,China,No,432,Yes,Yes,No,0
+P0054,Adidas T-Shirt,Adidas,Accessories,98159,52,S0054,3.9,2008,0.23,No,Best deal in the market!,Neutral,1.4,4567,0.48,No,Yes,China,Yes,288,Yes,No,No,0
+P0055,Rolex Watch,Adidas,Accessories,38073,42,S0055,3.2,5486,0.27,Yes,Seller is reliable and product is genuine.,Neutral,1.7,2082,0.92,No,No,China,Yes,152,Yes,Yes,No,0
+P0056,Nike Shoes,Adidas,Clothing,1306,49,S0056,3.4,9438,0.22,Yes,Suspicious branding on packaging.,Neutral,1.6,3499,0.07,No,No,Germany,Yes,276,Yes,No,Yes,0
+P0057,Ray-Ban Sunglasses,Rolex,Shoes,57138,28,S0057,3.0,4679,0.02,No,Highly recommended!,Neutral,4.9,830,0.28,No,Yes,China,Yes,400,No,Yes,Yes,0
+P0058,Apple iPhone,Adidas,Electronics,30257,56,S0058,2.2,9352,0.08,Yes,Best deal in the market!,Neutral,4.0,1910,0.35,No,No,USA,No,278,No,No,Yes,1
+P0059,Ray-Ban Sunglasses,Nike,Accessories,35136,38,S0059,3.3,4328,0.22,No,Would not recommend this seller.,Negative,4.9,2582,0.78,Yes,Yes,Germany,No,56,No,Yes,No,1
+P0060,Apple iPhone,Ray-Ban,Electronics,80597,55,S0060,3.8,7074,0.1,Yes,Great quality product!,Negative,2.8,692,0.99,Yes,No,USA,Yes,490,No,No,Yes,1
+P0061,Apple iPhone,Nike,Electronics,48780,42,S0061,4.5,7456,0.02,No,Seller is reliable and product is genuine.,Neutral,2.1,4020,0.24,Yes,Yes,India,No,464,Yes,Yes,Yes,1
+P0062,Ray-Ban Sunglasses,Nike,Accessories,24762,49,S0062,3.5,1441,0.42,Yes,Not the original product.,Neutral,4.2,932,0.87,No,No,Germany,Yes,185,Yes,Yes,Yes,0
+P0063,Adidas T-Shirt,Adidas,Electronics,80935,22,S0063,4.0,5634,0.49,Yes,Highly recommended!,Neutral,2.3,4937,0.83,Yes,No,India,No,397,No,Yes,Yes,1
+P0064,Apple iPhone,Ray-Ban,Accessories,62711,43,S0064,1.6,7471,0.4,No,Worth the price.,Negative,2.2,3407,0.22,Yes,Yes,China,No,92,No,Yes,No,1
+P0065,Apple iPhone,Ray-Ban,Electronics,55342,37,S0065,2.8,1829,0.43,Yes,Suspicious branding on packaging.,Neutral,1.9,148,0.4,No,Yes,China,No,275,No,No,No,1
+P0066,Ray-Ban Sunglasses,Ray-Ban,Accessories,57479,22,S0066,1.0,1140,0.12,Yes,Worth the price.,Neutral,1.5,1033,0.41,No,Yes,Vietnam,Yes,157,No,Yes,Yes,0
+P0067,Apple iPhone,Rolex,Shoes,81970,44,S0067,2.0,6573,0.48,No,Not the original product.,Neutral,2.0,1312,0.98,Yes,Yes,China,Yes,274,Yes,No,Yes,1
+P0068,Apple iPhone,Adidas,Clothing,38697,51,S0068,3.9,2668,0.1,Yes,Seller is reliable and product is genuine.,Negative,2.4,388,0.18,Yes,Yes,India,No,180,No,Yes,Yes,1
+P0069,Ray-Ban Sunglasses,Ray-Ban,Accessories,42344,49,S0069,5.0,3510,0.48,Yes,Would not recommend this seller.,Neutral,3.7,3122,0.8,No,No,China,Yes,358,Yes,No,No,0
+P0070,Ray-Ban Sunglasses,Rolex,Accessories,65254,7,S0070,1.4,8576,0.5,Yes,Not the original product.,Neutral,1.3,1874,0.33,No,Yes,Germany,Yes,439,Yes,Yes,Yes,1
+P0071,Nike Shoes,Apple,Clothing,34657,0,S0071,2.6,2130,0.36,No,Definitely a counterfeit item.,Neutral,1.8,3589,0.73,No,Yes,China,No,76,Yes,Yes,No,0
+P0072,Adidas T-Shirt,Apple,Accessories,77629,7,S0072,4.2,4030,0.49,No,Worth the price.,Neutral,4.2,916,0.42,No,Yes,Vietnam,Yes,465,Yes,No,No,1
+P0073,Adidas T-Shirt,Rolex,Accessories,40542,28,S0073,1.8,3269,0.28,No,Would not recommend this seller.,Neutral,1.6,1879,0.58,Yes,Yes,China,No,150,No,Yes,Yes,0
+P0074,Apple iPhone,Rolex,Electronics,62165,4,S0074,3.2,1833,0.13,Yes,Worth the price.,Neutral,2.4,3749,0.83,Yes,Yes,India,No,445,No,Yes,Yes,1
+P0075,Adidas T-Shirt,Adidas,Clothing,83356,46,S0075,3.9,1484,0.22,Yes,Would not recommend this seller.,Neutral,4.5,278,0.8,No,No,India,No,237,No,No,Yes,1
+P0076,Apple iPhone,Adidas,Shoes,27876,33,S0076,3.5,2252,0.3,Yes,Great quality product!,Neutral,1.6,1978,0.87,Yes,Yes,China,Yes,288,No,Yes,No,1
+P0077,Nike Shoes,Apple,Accessories,56054,64,S0077,1.8,3253,0.04,Yes,Definitely a counterfeit item.,Neutral,1.3,1860,0.06,Yes,Yes,India,No,230,Yes,No,No,0
+P0078,Ray-Ban Sunglasses,Ray-Ban,Clothing,14699,54,S0078,2.4,7000,0.31,No,Not the original product.,Neutral,2.9,3037,0.69,No,Yes,India,No,487,Yes,Yes,Yes,1
+P0079,Ray-Ban Sunglasses,Apple,Electronics,81912,42,S0079,4.1,5170,0.49,Yes,The logo is slightly different.,Neutral,2.2,3372,0.14,Yes,No,Vietnam,Yes,17,Yes,No,No,0
+P0080,Ray-Ban Sunglasses,Ray-Ban,Shoes,51448,29,S0080,3.2,3144,0.1,Yes,The product stopped working in 2 days.,Neutral,3.3,4714,0.42,Yes,No,Germany,Yes,72,No,No,Yes,0
+P0081,Adidas T-Shirt,Ray-Ban,Clothing,74281,16,S0081,1.0,2080,0.4,Yes,Best deal in the market!,Neutral,4.2,2183,0.55,Yes,Yes,Vietnam,Yes,416,Yes,No,Yes,0
+P0082,Nike Shoes,Adidas,Shoes,73250,25,S0082,4.0,369,0.45,No,Packaging looks authentic.,Neutral,1.5,4676,0.4,No,Yes,USA,Yes,415,Yes,No,No,0
+P0083,Adidas T-Shirt,Nike,Shoes,66762,7,S0083,1.1,1151,0.47,Yes,Looks fake compared to original.,Neutral,3.3,1171,0.52,No,No,Vietnam,No,188,Yes,Yes,No,1
+P0084,Adidas T-Shirt,Nike,Shoes,47100,46,S0084,4.0,1645,0.48,Yes,Looks fake compared to original.,Negative,3.0,490,1.0,Yes,No,China,Yes,437,Yes,Yes,No,1
+P0085,Nike Shoes,Rolex,Accessories,77398,45,S0085,1.8,4010,0.26,Yes,Looks fake compared to original.,Neutral,1.6,2526,0.14,No,No,Germany,Yes,16,No,No,No,1
+P0086,Nike Shoes,Adidas,Accessories,62983,67,S0086,4.8,3371,0.49,Yes,Cheap materials used.,Negative,3.5,1183,0.68,No,Yes,China,Yes,18,Yes,Yes,Yes,0
+P0087,Nike Shoes,Ray-Ban,Electronics,18797,32,S0087,2.5,6593,0.38,Yes,Looks fake compared to original.,Negative,2.1,4480,0.4,No,Yes,USA,Yes,218,Yes,Yes,Yes,1
+P0088,Nike Shoes,Nike,Electronics,30948,0,S0088,2.3,7845,0.08,No,The product stopped working in 2 days.,Negative,3.0,4259,0.13,Yes,No,Germany,No,325,No,Yes,Yes,0
+P0089,Ray-Ban Sunglasses,Ray-Ban,Clothing,26672,18,S0089,1.6,16,0.24,Yes,Seller is reliable and product is genuine.,Neutral,1.3,2489,0.16,Yes,Yes,India,Yes,482,No,No,No,0
+P0090,Rolex Watch,Nike,Electronics,43374,30,S0090,2.2,3277,0.36,Yes,Looks fake compared to original.,Neutral,2.8,1877,0.95,No,No,Vietnam,No,119,No,Yes,Yes,0
+P0091,Rolex Watch,Nike,Shoes,8157,13,S0091,4.5,6574,0.12,Yes,The logo is slightly different.,Neutral,2.2,2463,0.88,Yes,No,China,Yes,100,Yes,Yes,No,1
+P0092,Nike Shoes,Nike,Shoes,84886,52,S0092,5.0,9793,0.32,Yes,Not the original product.,Neutral,4.3,1631,0.91,Yes,No,USA,No,33,Yes,No,No,1
+P0093,Rolex Watch,Adidas,Accessories,25925,47,S0093,2.5,4938,0.33,Yes,Packaging looks authentic.,Neutral,1.2,288,0.99,Yes,Yes,India,No,83,Yes,Yes,No,0
+P0094,Rolex Watch,Apple,Shoes,27185,68,S0094,2.8,2616,0.08,Yes,I love this product!,Neutral,2.7,4283,0.21,Yes,No,Vietnam,Yes,408,Yes,No,Yes,1
+P0095,Nike Shoes,Ray-Ban,Clothing,25078,61,S0095,3.9,5916,0.28,Yes,The product stopped working in 2 days.,Neutral,2.8,1908,0.36,Yes,No,India,No,195,No,No,No,1
+P0096,Rolex Watch,Adidas,Shoes,29331,65,S0096,4.5,3283,0.39,Yes,The logo is slightly different.,Neutral,3.9,1162,0.67,No,Yes,Vietnam,Yes,329,Yes,No,No,0
+P0097,Adidas T-Shirt,Adidas,Shoes,8406,63,S0097,3.4,7621,0.25,Yes,Seller is reliable and product is genuine.,Neutral,3.3,130,0.48,Yes,No,Germany,No,201,Yes,Yes,No,0
+P0098,Apple iPhone,Adidas,Clothing,61913,69,S0098,2.6,923,0.01,Yes,Not the original product.,Negative,3.7,2364,0.42,Yes,Yes,India,No,343,No,Yes,No,1
+P0099,Apple iPhone,Adidas,Electronics,54528,62,S0099,2.7,2021,0.0,No,Would not recommend this seller.,Neutral,4.1,144,0.36,Yes,No,India,No,340,No,No,No,0
+P0100,Nike Shoes,Adidas,Electronics,7787,32,S0100,3.8,1452,0.18,No,The logo is slightly different.,Neutral,4.4,16,0.59,No,Yes,India,Yes,10,No,No,No,0
+P0101,Ray-Ban Sunglasses,Rolex,Clothing,34160,40,S0101,1.0,5556,0.46,No,Best deal in the market!,Neutral,2.3,245,0.58,No,No,Germany,No,346,Yes,No,No,1
+P0102,Nike Shoes,Ray-Ban,Accessories,76258,47,S0102,3.5,1839,0.11,No,The logo is slightly different.,Negative,3.2,927,0.16,No,No,USA,Yes,399,Yes,No,No,1
+P0103,Ray-Ban Sunglasses,Adidas,Shoes,61004,12,S0103,2.4,8777,0.32,Yes,Cheap materials used.,Neutral,4.4,3179,0.47,Yes,No,Vietnam,No,217,Yes,No,No,0
+P0104,Apple iPhone,Ray-Ban,Clothing,60220,30,S0104,4.2,6478,0.11,No,Suspicious branding on packaging.,Neutral,5.0,2177,0.55,No,No,India,No,444,Yes,No,No,1
+P0105,Nike Shoes,Rolex,Shoes,35201,67,S0105,1.4,939,0.16,No,The logo is slightly different.,Neutral,4.6,887,0.57,No,No,Germany,No,252,Yes,Yes,No,0
+P0106,Adidas T-Shirt,Rolex,Accessories,83800,3,S0106,3.4,3709,0.42,Yes,Best deal in the market!,Neutral,2.5,341,0.21,No,Yes,USA,No,221,No,No,No,0
+P0107,Rolex Watch,Ray-Ban,Shoes,18174,18,S0107,2.9,9665,0.36,No,Best deal in the market!,Negative,1.8,2052,0.74,No,Yes,Vietnam,No,382,No,No,Yes,1
+P0108,Ray-Ban Sunglasses,Nike,Clothing,84060,69,S0108,3.6,1064,0.05,No,Seller is reliable and product is genuine.,Neutral,3.0,3399,0.03,Yes,No,Germany,No,368,Yes,No,Yes,0
+P0109,Rolex Watch,Apple,Shoes,24374,12,S0109,1.3,5754,0.21,Yes,Seller is reliable and product is genuine.,Neutral,4.0,3951,0.35,No,No,Vietnam,Yes,79,Yes,Yes,No,0
+P0110,Rolex Watch,Nike,Electronics,44142,22,S0110,3.3,1910,0.01,Yes,Definitely a counterfeit item.,Negative,3.0,306,0.78,No,No,India,Yes,6,Yes,Yes,No,0
+P0111,Nike Shoes,Nike,Accessories,98320,0,S0111,3.2,9659,0.24,Yes,Not the original product.,Neutral,2.9,908,0.56,Yes,Yes,USA,Yes,271,Yes,Yes,No,1
+P0112,Rolex Watch,Nike,Accessories,65660,53,S0112,3.2,6990,0.33,No,The product stopped working in 2 days.,Neutral,4.4,2655,0.26,Yes,Yes,Germany,No,226,Yes,Yes,Yes,1
+P0113,Adidas T-Shirt,Adidas,Accessories,18102,14,S0113,3.4,7079,0.06,No,Great quality product!,Neutral,2.4,3793,0.69,No,No,USA,Yes,15,No,No,Yes,1
+P0114,Rolex Watch,Rolex,Clothing,89301,64,S0114,3.7,9601,0.14,Yes,The product stopped working in 2 days.,Neutral,4.4,4043,0.57,Yes,Yes,India,No,423,No,Yes,Yes,0
+P0115,Nike Shoes,Nike,Accessories,26431,14,S0115,4.2,3425,0.2,Yes,Great quality product!,Neutral,2.6,1372,0.8,No,No,USA,Yes,11,No,No,No,0
+P0116,Adidas T-Shirt,Rolex,Electronics,94877,20,S0116,2.1,452,0.46,No,Worth the price.,Neutral,2.3,321,0.74,Yes,No,USA,Yes,290,Yes,No,No,1
+P0117,Apple iPhone,Ray-Ban,Clothing,29692,18,S0117,4.3,6228,0.5,Yes,Cheap materials used.,Neutral,2.8,4655,0.61,Yes,No,China,No,240,Yes,No,No,1
+P0118,Rolex Watch,Apple,Electronics,47042,59,S0118,3.0,4662,0.02,No,Would not recommend this seller.,Neutral,4.0,4060,0.49,No,Yes,USA,No,20,No,No,No,1
+P0119,Nike Shoes,Ray-Ban,Shoes,43020,32,S0119,1.3,7949,0.38,Yes,Not the original product.,Positive,1.5,1132,0.13,Yes,No,Vietnam,Yes,177,No,No,Yes,0
+P0120,Apple iPhone,Ray-Ban,Shoes,65272,48,S0120,1.2,7843,0.19,Yes,Highly recommended!,Neutral,1.8,2579,0.26,No,No,Germany,Yes,426,Yes,No,No,1
+P0121,Apple iPhone,Adidas,Shoes,59262,34,S0121,2.3,9380,0.2,No,Suspicious branding on packaging.,Neutral,4.8,4043,0.42,Yes,No,China,Yes,227,No,Yes,Yes,0
+P0122,Ray-Ban Sunglasses,Apple,Shoes,50606,43,S0122,4.1,7607,0.38,Yes,Seller is reliable and product is genuine.,Neutral,1.7,3368,0.6,No,Yes,Germany,Yes,495,No,Yes,Yes,1
+P0123,Adidas T-Shirt,Ray-Ban,Electronics,81621,10,S0123,3.8,4468,0.46,Yes,Not the original product.,Neutral,3.3,818,0.51,Yes,Yes,Germany,No,272,Yes,Yes,No,0
+P0124,Rolex Watch,Ray-Ban,Clothing,26059,65,S0124,4.2,6601,0.48,Yes,Worth the price.,Positive,3.3,12,0.29,Yes,Yes,India,Yes,287,No,Yes,Yes,0
+P0125,Nike Shoes,Apple,Clothing,34242,45,S0125,3.1,9459,0.29,No,Seller is reliable and product is genuine.,Neutral,3.0,195,0.01,Yes,No,India,No,296,No,Yes,Yes,1
+P0126,Ray-Ban Sunglasses,Apple,Accessories,70169,8,S0126,2.8,2319,0.18,Yes,Worth the price.,Neutral,3.6,2538,0.5,Yes,Yes,China,No,133,No,No,Yes,0
+P0127,Adidas T-Shirt,Ray-Ban,Electronics,80699,2,S0127,1.6,6278,0.39,Yes,Looks fake compared to original.,Neutral,1.9,2843,0.29,Yes,No,India,Yes,471,Yes,Yes,Yes,1
+P0128,Ray-Ban Sunglasses,Apple,Shoes,22254,25,S0128,2.3,920,0.13,Yes,Packaging looks authentic.,Neutral,3.2,2230,0.73,No,Yes,India,No,282,No,Yes,No,0
+P0129,Adidas T-Shirt,Ray-Ban,Electronics,4472,47,S0129,2.7,4350,0.28,Yes,Not the original product.,Neutral,2.5,3010,0.02,Yes,No,India,Yes,403,No,Yes,No,0
+P0130,Adidas T-Shirt,Ray-Ban,Accessories,71331,65,S0130,1.4,4019,0.18,Yes,The logo is slightly different.,Neutral,3.6,4752,0.58,No,Yes,Germany,No,152,No,No,Yes,1
+P0131,Rolex Watch,Adidas,Accessories,42373,69,S0131,1.9,6638,0.33,Yes,Best deal in the market!,Positive,1.6,2078,0.94,No,No,China,No,65,Yes,No,No,0
+P0132,Adidas T-Shirt,Nike,Electronics,95161,27,S0132,3.4,2179,0.12,No,Seller is reliable and product is genuine.,Neutral,3.3,3868,0.17,No,Yes,Germany,Yes,136,Yes,No,Yes,1
+P0133,Ray-Ban Sunglasses,Ray-Ban,Electronics,10403,25,S0133,3.9,2182,0.1,No,Suspicious branding on packaging.,Neutral,1.7,4874,0.47,Yes,Yes,Vietnam,No,91,No,Yes,No,1
+P0134,Adidas T-Shirt,Rolex,Electronics,3520,24,S0134,5.0,5678,0.46,Yes,Great quality product!,Negative,2.1,444,0.09,No,Yes,Germany,No,436,Yes,Yes,No,1
+P0135,Rolex Watch,Nike,Clothing,42255,11,S0135,4.7,6323,0.05,No,Not the original product.,Neutral,1.9,298,0.63,Yes,No,Vietnam,Yes,316,No,Yes,No,0
+P0136,Rolex Watch,Nike,Shoes,86456,4,S0136,3.6,8325,0.25,No,Satisfactory purchase.,Negative,1.7,4904,0.55,No,Yes,USA,No,421,Yes,Yes,No,0
+P0137,Ray-Ban Sunglasses,Nike,Electronics,87488,47,S0137,2.7,8046,0.11,Yes,The logo is slightly different.,Positive,4.3,845,0.41,No,Yes,USA,No,258,Yes,Yes,No,0
+P0138,Apple iPhone,Adidas,Electronics,46148,36,S0138,3.5,6799,0.02,No,The logo is slightly different.,Neutral,2.1,1016,0.52,No,Yes,Vietnam,Yes,467,No,No,Yes,1
+P0139,Apple iPhone,Ray-Ban,Electronics,10016,43,S0139,4.1,795,0.02,No,Worth the price.,Neutral,4.7,1385,0.9,No,Yes,Vietnam,Yes,453,No,Yes,No,1
+P0140,Adidas T-Shirt,Adidas,Accessories,2896,14,S0140,1.5,6149,0.09,No,Suspicious branding on packaging.,Neutral,4.9,1398,0.2,No,No,Germany,No,102,No,No,Yes,0
+P0141,Nike Shoes,Ray-Ban,Accessories,84582,42,S0141,2.6,6354,0.43,No,Not the original product.,Negative,3.3,554,0.02,Yes,Yes,Vietnam,No,480,Yes,Yes,Yes,0
+P0142,Adidas T-Shirt,Adidas,Clothing,19629,47,S0142,4.4,2426,0.14,No,Worth the price.,Neutral,1.6,2351,0.86,No,No,China,No,54,No,No,No,1
+P0143,Ray-Ban Sunglasses,Adidas,Shoes,2091,69,S0143,2.5,8998,0.48,No,Packaging looks authentic.,Neutral,2.5,4517,0.58,No,No,USA,Yes,256,Yes,No,Yes,0
+P0144,Ray-Ban Sunglasses,Rolex,Clothing,11803,45,S0144,3.3,4164,0.29,No,I love this product!,Neutral,4.2,1270,0.89,Yes,No,USA,No,100,Yes,No,No,1
+P0145,Ray-Ban Sunglasses,Adidas,Shoes,31061,42,S0145,3.4,5629,0.22,No,Definitely a counterfeit item.,Neutral,2.5,1261,0.6,Yes,No,Vietnam,No,197,No,No,Yes,0
+P0146,Ray-Ban Sunglasses,Apple,Accessories,72219,20,S0146,1.7,1946,0.29,Yes,Would not recommend this seller.,Neutral,1.3,185,0.81,Yes,Yes,India,No,300,Yes,Yes,Yes,1
+P0147,Ray-Ban Sunglasses,Rolex,Accessories,92608,22,S0147,2.4,3817,0.26,Yes,Worth the price.,Neutral,3.2,4564,0.43,No,No,India,No,225,No,Yes,No,0
+P0148,Rolex Watch,Adidas,Accessories,86731,46,S0148,2.3,7161,0.38,No,I love this product!,Neutral,4.4,2411,0.75,No,No,Vietnam,No,430,Yes,Yes,No,0
+P0149,Apple iPhone,Nike,Clothing,7814,14,S0149,1.1,9503,0.14,No,Not the original product.,Neutral,4.2,4432,0.91,No,No,China,No,462,No,No,No,1
+P0150,Ray-Ban Sunglasses,Apple,Electronics,20123,24,S0150,1.1,3246,0.18,Yes,Not the original product.,Negative,1.7,2210,0.57,No,No,India,Yes,236,Yes,Yes,No,1
+P0151,Nike Shoes,Apple,Electronics,68175,35,S0151,4.3,2362,0.45,No,Seller is reliable and product is genuine.,Positive,3.7,3673,0.18,No,Yes,Vietnam,Yes,25,Yes,Yes,Yes,1
+P0152,Nike Shoes,Apple,Accessories,97326,50,S0152,2.1,1942,0.47,No,Seller is reliable and product is genuine.,Negative,1.9,4684,0.27,No,Yes,China,No,120,No,Yes,No,0
+P0153,Nike Shoes,Rolex,Electronics,65582,14,S0153,3.1,8566,0.45,Yes,Looks fake compared to original.,Neutral,1.9,1882,0.2,Yes,No,China,No,397,Yes,Yes,Yes,1
+P0154,Nike Shoes,Adidas,Electronics,84124,67,S0154,2.2,4926,0.21,Yes,Best deal in the market!,Neutral,4.5,4297,0.25,Yes,No,Germany,Yes,181,No,No,Yes,1
+P0155,Rolex Watch,Adidas,Clothing,33630,20,S0155,4.8,5508,0.39,Yes,Great quality product!,Neutral,2.0,522,0.31,No,No,China,Yes,198,Yes,No,Yes,0
+P0156,Nike Shoes,Nike,Shoes,52256,12,S0156,2.0,956,0.24,No,Worth the price.,Neutral,2.1,1888,0.56,No,Yes,India,Yes,301,Yes,Yes,Yes,1
+P0157,Ray-Ban Sunglasses,Nike,Accessories,98124,18,S0157,2.7,9579,0.25,No,The product stopped working in 2 days.,Neutral,1.0,2553,0.59,No,Yes,India,No,254,Yes,Yes,Yes,1
+P0158,Adidas T-Shirt,Apple,Accessories,26792,33,S0158,4.5,1449,0.1,Yes,Great quality product!,Neutral,4.5,3810,0.43,No,Yes,Vietnam,No,121,No,Yes,Yes,1
+P0159,Nike Shoes,Nike,Clothing,86706,67,S0159,4.4,7740,0.3,Yes,Definitely a counterfeit item.,Neutral,4.2,4884,0.62,No,Yes,Vietnam,No,30,No,No,No,0
+P0160,Rolex Watch,Rolex,Clothing,69774,51,S0160,1.7,4867,0.09,No,I love this product!,Neutral,3.5,4156,0.08,Yes,Yes,China,No,471,No,No,Yes,0
+P0161,Rolex Watch,Adidas,Electronics,2969,26,S0161,4.2,350,0.17,Yes,Looks fake compared to original.,Neutral,4.0,4674,0.09,Yes,No,USA,Yes,314,No,No,Yes,0
+P0162,Nike Shoes,Apple,Accessories,54447,28,S0162,2.8,392,0.43,No,Seller is reliable and product is genuine.,Neutral,1.6,4417,0.17,No,Yes,Germany,Yes,478,No,Yes,Yes,1
+P0163,Adidas T-Shirt,Nike,Shoes,23034,27,S0163,2.9,9758,0.1,No,Definitely a counterfeit item.,Neutral,2.8,3480,0.52,Yes,Yes,USA,Yes,284,Yes,No,No,0
+P0164,Nike Shoes,Rolex,Clothing,64120,34,S0164,1.5,8501,0.04,Yes,The product stopped working in 2 days.,Neutral,2.4,1410,0.21,No,No,China,Yes,105,Yes,No,No,1
+P0165,Rolex Watch,Rolex,Shoes,49374,7,S0165,1.3,148,0.03,Yes,The product stopped working in 2 days.,Negative,1.4,1695,0.28,No,Yes,China,No,223,No,No,Yes,1
+P0166,Apple iPhone,Nike,Shoes,50208,15,S0166,3.9,368,0.47,No,I love this product!,Neutral,2.9,4665,0.4,No,Yes,USA,No,272,Yes,No,No,1
+P0167,Ray-Ban Sunglasses,Adidas,Accessories,75053,35,S0167,3.0,4941,0.25,Yes,Best deal in the market!,Neutral,4.7,527,0.81,Yes,Yes,Germany,Yes,397,Yes,No,Yes,0
+P0168,Rolex Watch,Nike,Accessories,68844,29,S0168,2.7,9724,0.2,Yes,Packaging looks authentic.,Neutral,1.2,2661,0.01,Yes,No,USA,Yes,231,Yes,Yes,No,0
+P0169,Nike Shoes,Apple,Clothing,49638,17,S0169,3.9,3466,0.41,Yes,Best deal in the market!,Neutral,2.2,2173,0.65,No,Yes,Vietnam,Yes,419,Yes,Yes,Yes,1
+P0170,Ray-Ban Sunglasses,Nike,Accessories,54802,1,S0170,4.1,1637,0.42,Yes,Great quality product!,Negative,1.8,4967,0.67,Yes,No,India,Yes,255,No,Yes,No,1
+P0171,Nike Shoes,Rolex,Accessories,48138,48,S0171,1.6,9505,0.17,No,Suspicious branding on packaging.,Neutral,2.0,280,0.8,Yes,No,Vietnam,Yes,441,Yes,Yes,No,0
+P0172,Nike Shoes,Nike,Accessories,78749,3,S0172,3.4,6636,0.35,No,Seller is reliable and product is genuine.,Neutral,4.6,2965,0.93,No,Yes,India,No,495,No,No,No,0
+P0173,Apple iPhone,Adidas,Shoes,3219,6,S0173,1.5,5014,0.39,No,Not the original product.,Negative,2.9,3978,0.02,Yes,Yes,China,No,23,No,Yes,Yes,0
+P0174,Ray-Ban Sunglasses,Ray-Ban,Clothing,23390,38,S0174,4.0,9336,0.33,No,Satisfactory purchase.,Neutral,2.9,2670,0.15,Yes,Yes,Germany,Yes,108,Yes,Yes,Yes,1
+P0175,Ray-Ban Sunglasses,Nike,Electronics,77736,12,S0175,3.6,6662,0.08,Yes,I love this product!,Neutral,4.0,2894,0.89,No,Yes,USA,Yes,190,No,Yes,Yes,0
+P0176,Apple iPhone,Adidas,Shoes,37009,30,S0176,4.8,6426,0.44,Yes,Worth the price.,Positive,1.6,1752,0.46,No,No,Germany,Yes,346,Yes,No,No,0
+P0177,Rolex Watch,Adidas,Accessories,43034,62,S0177,1.3,3180,0.27,No,Definitely a counterfeit item.,Neutral,2.9,3982,0.56,Yes,Yes,USA,No,24,Yes,Yes,No,0
+P0178,Nike Shoes,Rolex,Shoes,92741,55,S0178,1.2,3845,0.14,No,The product stopped working in 2 days.,Neutral,2.7,4770,0.66,No,No,Vietnam,No,186,Yes,No,Yes,1
+P0179,Adidas T-Shirt,Adidas,Accessories,19287,41,S0179,2.1,8027,0.21,Yes,Not the original product.,Neutral,3.4,2362,0.68,Yes,No,Vietnam,No,287,No,No,No,0
+P0180,Nike Shoes,Adidas,Accessories,49345,60,S0180,2.0,2161,0.02,No,Highly recommended!,Neutral,5.0,4428,0.93,No,No,USA,Yes,115,No,No,Yes,1
+P0181,Nike Shoes,Adidas,Shoes,58432,41,S0181,2.0,9439,0.06,No,Definitely a counterfeit item.,Neutral,4.1,4132,1.0,No,No,Germany,No,337,No,Yes,Yes,1
+P0182,Rolex Watch,Adidas,Clothing,92624,55,S0182,4.6,6915,0.38,Yes,Suspicious branding on packaging.,Neutral,2.6,1709,0.72,No,No,USA,Yes,365,Yes,No,Yes,1
+P0183,Nike Shoes,Apple,Accessories,92159,35,S0183,2.0,2844,0.0,No,Packaging looks authentic.,Neutral,4.3,2687,0.29,No,Yes,China,No,401,Yes,Yes,Yes,0
+P0184,Apple iPhone,Apple,Clothing,33562,67,S0184,2.1,9200,0.21,Yes,Suspicious branding on packaging.,Neutral,1.7,2896,0.88,Yes,No,Vietnam,No,36,Yes,Yes,No,0
+P0185,Apple iPhone,Rolex,Electronics,76213,6,S0185,4.0,2577,0.26,Yes,Suspicious branding on packaging.,Neutral,1.1,4536,0.05,No,No,China,No,281,No,Yes,No,0
+P0186,Ray-Ban Sunglasses,Nike,Accessories,87763,53,S0186,2.8,1317,0.03,No,Seller is reliable and product is genuine.,Neutral,1.8,2777,0.23,No,Yes,Vietnam,Yes,136,Yes,No,No,1
+P0187,Adidas T-Shirt,Adidas,Clothing,96256,0,S0187,4.1,8858,0.49,Yes,I love this product!,Neutral,2.4,1120,0.9,No,Yes,Vietnam,Yes,226,Yes,No,Yes,0
+P0188,Nike Shoes,Nike,Clothing,60961,43,S0188,1.3,2670,0.11,No,Packaging looks authentic.,Neutral,3.0,2989,0.26,Yes,No,India,No,319,No,Yes,No,1
+P0189,Nike Shoes,Nike,Electronics,75918,44,S0189,3.0,3740,0.15,Yes,Highly recommended!,Neutral,3.5,4260,0.22,Yes,No,China,Yes,327,No,No,Yes,0
+P0190,Rolex Watch,Rolex,Clothing,67172,46,S0190,1.1,6217,0.15,No,Cheap materials used.,Neutral,4.6,4244,0.14,No,Yes,China,Yes,403,No,No,Yes,0
+P0191,Apple iPhone,Adidas,Clothing,35332,12,S0191,1.3,3172,0.12,No,I love this product!,Neutral,3.0,195,0.86,No,No,India,Yes,181,Yes,No,Yes,0
+P0192,Adidas T-Shirt,Adidas,Electronics,32466,21,S0192,4.6,1150,0.0,No,Best deal in the market!,Positive,3.0,663,0.5,No,Yes,Germany,Yes,361,Yes,Yes,Yes,0
+P0193,Ray-Ban Sunglasses,Ray-Ban,Accessories,73045,20,S0193,1.6,8468,0.36,Yes,The logo is slightly different.,Negative,1.2,480,0.67,No,Yes,China,Yes,85,Yes,No,Yes,1
+P0194,Apple iPhone,Nike,Clothing,13487,8,S0194,3.1,1718,0.48,Yes,Not the original product.,Neutral,1.1,4219,0.24,No,No,USA,Yes,466,No,No,Yes,1
+P0195,Ray-Ban Sunglasses,Nike,Clothing,37811,25,S0195,2.6,3640,0.11,No,Satisfactory purchase.,Neutral,3.2,1424,0.76,No,Yes,India,Yes,413,No,Yes,No,1
+P0196,Rolex Watch,Apple,Clothing,32075,8,S0196,2.4,3221,0.33,Yes,Cheap materials used.,Positive,2.8,2709,0.76,Yes,No,China,No,52,No,No,No,1
+P0197,Rolex Watch,Ray-Ban,Shoes,64352,14,S0197,4.6,6548,0.37,No,Definitely a counterfeit item.,Negative,4.4,3176,0.31,No,No,Germany,Yes,347,No,Yes,No,0
+P0198,Nike Shoes,Apple,Electronics,1507,9,S0198,1.1,9712,0.42,No,Not the original product.,Neutral,1.6,3815,0.41,No,No,China,Yes,354,Yes,No,No,1
+P0199,Adidas T-Shirt,Apple,Shoes,71481,41,S0199,3.7,485,0.21,Yes,Not the original product.,Neutral,1.1,2015,0.21,No,Yes,Vietnam,No,234,Yes,No,Yes,1
+P0200,Ray-Ban Sunglasses,Apple,Electronics,76742,23,S0200,4.9,7694,0.15,No,Would not recommend this seller.,Neutral,2.8,3790,0.98,No,No,USA,No,446,Yes,No,Yes,1
+P0201,Apple iPhone,Rolex,Accessories,48017,48,S0201,3.2,9178,0.16,Yes,Definitely a counterfeit item.,Neutral,1.9,4806,0.65,No,Yes,India,No,266,Yes,No,No,0
+P0202,Rolex Watch,Rolex,Accessories,29757,25,S0202,4.7,1217,0.36,No,Great quality product!,Positive,1.2,2444,0.93,No,No,Vietnam,No,286,Yes,No,No,1
+P0203,Nike Shoes,Apple,Clothing,87772,36,S0203,1.2,1970,0.41,Yes,Would not recommend this seller.,Positive,3.9,912,0.3,Yes,No,Germany,Yes,432,Yes,No,No,1
+P0204,Nike Shoes,Ray-Ban,Electronics,42707,67,S0204,2.7,567,0.09,No,Packaging looks authentic.,Neutral,1.4,3214,0.78,Yes,Yes,Vietnam,No,495,Yes,Yes,No,0
+P0205,Ray-Ban Sunglasses,Nike,Accessories,13781,49,S0205,2.0,892,0.19,No,Great quality product!,Neutral,3.4,2365,0.77,Yes,No,Vietnam,No,486,Yes,No,No,0
+P0206,Rolex Watch,Ray-Ban,Electronics,61746,23,S0206,3.9,4771,0.45,Yes,Satisfactory purchase.,Neutral,2.1,3630,0.69,Yes,No,Germany,Yes,99,No,No,No,1
+P0207,Adidas T-Shirt,Adidas,Accessories,1935,18,S0207,4.9,5877,0.4,No,Worth the price.,Neutral,1.7,3473,0.97,Yes,Yes,Vietnam,Yes,477,No,No,No,1
+P0208,Rolex Watch,Rolex,Shoes,99375,59,S0208,2.0,6973,0.49,No,Best deal in the market!,Neutral,2.5,681,0.39,Yes,Yes,India,Yes,86,Yes,Yes,No,0
+P0209,Ray-Ban Sunglasses,Nike,Accessories,91857,38,S0209,3.6,7176,0.38,Yes,Would not recommend this seller.,Neutral,4.2,4652,0.13,No,Yes,China,No,402,No,Yes,Yes,1
+P0210,Ray-Ban Sunglasses,Nike,Shoes,27160,17,S0210,1.8,7939,0.2,No,Satisfactory purchase.,Neutral,2.6,610,0.67,No,No,Vietnam,Yes,395,Yes,Yes,Yes,0
+P0211,Rolex Watch,Adidas,Accessories,5584,18,S0211,3.3,5357,0.3,Yes,I love this product!,Neutral,4.0,2157,0.73,No,Yes,India,No,14,Yes,No,Yes,1
+P0212,Ray-Ban Sunglasses,Adidas,Clothing,82697,35,S0212,2.9,7279,0.33,No,The product stopped working in 2 days.,Negative,1.5,3867,0.58,No,Yes,China,Yes,414,No,No,Yes,1
+P0213,Rolex Watch,Apple,Shoes,14007,54,S0213,4.9,9812,0.04,Yes,Packaging looks authentic.,Neutral,4.1,372,0.21,No,No,China,Yes,426,Yes,Yes,No,1
+P0214,Apple iPhone,Rolex,Accessories,73095,68,S0214,3.4,8135,0.27,No,I love this product!,Neutral,1.9,616,0.5,No,Yes,Vietnam,No,100,Yes,Yes,Yes,1
+P0215,Rolex Watch,Rolex,Clothing,84307,46,S0215,2.4,2464,0.35,No,Packaging looks authentic.,Neutral,3.7,2254,0.31,Yes,No,India,Yes,164,Yes,Yes,No,1
+P0216,Rolex Watch,Ray-Ban,Shoes,46039,48,S0216,1.5,4504,0.08,No,Worth the price.,Neutral,3.3,4943,0.43,No,No,Vietnam,Yes,462,Yes,No,Yes,0
+P0217,Ray-Ban Sunglasses,Apple,Clothing,7991,32,S0217,1.6,1956,0.39,Yes,Would not recommend this seller.,Positive,4.7,4139,0.65,Yes,Yes,Germany,Yes,28,Yes,Yes,No,0
+P0218,Ray-Ban Sunglasses,Apple,Electronics,50692,20,S0218,1.9,2818,0.29,Yes,Worth the price.,Neutral,2.5,865,0.75,Yes,No,China,Yes,113,Yes,No,No,1
+P0219,Nike Shoes,Apple,Electronics,80895,21,S0219,2.0,6652,0.48,Yes,Not the original product.,Neutral,1.3,1269,0.23,No,Yes,Vietnam,Yes,106,Yes,No,Yes,1
+P0220,Nike Shoes,Apple,Shoes,64388,47,S0220,4.4,3835,0.02,Yes,Definitely a counterfeit item.,Neutral,1.1,785,0.41,No,Yes,China,No,409,No,No,Yes,1
+P0221,Apple iPhone,Rolex,Accessories,74109,36,S0221,3.2,3546,0.13,No,The product stopped working in 2 days.,Neutral,4.3,4572,0.27,No,Yes,India,No,363,No,Yes,No,0
+P0222,Nike Shoes,Rolex,Shoes,9577,14,S0222,3.1,6078,0.3,No,Looks fake compared to original.,Neutral,3.1,4179,0.2,No,Yes,USA,Yes,129,Yes,No,No,0
+P0223,Rolex Watch,Apple,Clothing,21453,34,S0223,1.5,3812,0.15,Yes,Looks fake compared to original.,Neutral,4.1,2238,0.78,No,No,Vietnam,No,83,No,Yes,No,0
+P0224,Ray-Ban Sunglasses,Ray-Ban,Accessories,77419,31,S0224,4.4,4709,0.36,Yes,The logo is slightly different.,Neutral,1.9,4055,0.91,No,No,Vietnam,No,270,Yes,Yes,Yes,0
+P0225,Nike Shoes,Nike,Electronics,68389,10,S0225,3.9,1980,0.38,Yes,Worth the price.,Neutral,2.4,4896,0.37,No,Yes,China,No,243,Yes,Yes,Yes,0
+P0226,Nike Shoes,Nike,Accessories,24321,9,S0226,1.3,5816,0.05,No,Suspicious branding on packaging.,Neutral,1.1,936,0.75,Yes,Yes,India,Yes,387,Yes,Yes,No,0
+P0227,Apple iPhone,Ray-Ban,Electronics,38067,56,S0227,3.8,6152,0.26,Yes,Great quality product!,Neutral,4.8,3981,0.9,No,No,Germany,Yes,213,Yes,No,Yes,0
+P0228,Apple iPhone,Apple,Accessories,25360,24,S0228,3.2,2829,0.25,Yes,Highly recommended!,Negative,3.7,2339,0.85,No,Yes,India,Yes,305,No,No,No,0
+P0229,Rolex Watch,Rolex,Accessories,21695,1,S0229,1.3,9104,0.18,No,Cheap materials used.,Neutral,4.7,326,0.18,Yes,No,Vietnam,No,165,No,No,Yes,1
+P0230,Ray-Ban Sunglasses,Nike,Accessories,77975,63,S0230,2.8,374,0.47,No,Packaging looks authentic.,Positive,2.1,1535,0.96,No,Yes,Germany,No,278,No,No,Yes,0
+P0231,Apple iPhone,Adidas,Clothing,91374,34,S0231,2.9,4268,0.41,Yes,Satisfactory purchase.,Neutral,3.4,3481,0.38,No,No,India,Yes,58,No,Yes,Yes,0
+P0232,Nike Shoes,Adidas,Clothing,87766,6,S0232,1.7,3129,0.35,No,Worth the price.,Neutral,3.7,3862,0.34,Yes,No,USA,Yes,89,Yes,Yes,Yes,0
+P0233,Ray-Ban Sunglasses,Ray-Ban,Shoes,21927,17,S0233,4.8,1873,0.36,Yes,I love this product!,Neutral,2.3,1986,0.06,No,No,China,No,370,No,Yes,Yes,0
+P0234,Ray-Ban Sunglasses,Apple,Shoes,27583,66,S0234,4.4,125,0.23,No,Cheap materials used.,Neutral,4.4,4933,0.49,No,Yes,India,No,330,Yes,Yes,No,1
+P0235,Nike Shoes,Nike,Electronics,87546,41,S0235,3.7,7094,0.46,Yes,Highly recommended!,Neutral,4.8,4604,0.11,No,Yes,India,Yes,411,Yes,No,No,0
+P0236,Apple iPhone,Apple,Clothing,57872,38,S0236,2.8,8026,0.35,Yes,Not the original product.,Neutral,4.5,2779,0.25,No,Yes,USA,No,193,No,Yes,Yes,1
+P0237,Nike Shoes,Nike,Electronics,44564,40,S0237,2.6,2394,0.36,Yes,Great quality product!,Neutral,4.0,1271,0.32,No,Yes,Vietnam,No,122,Yes,No,No,1
+P0238,Ray-Ban Sunglasses,Ray-Ban,Shoes,8313,23,S0238,3.6,3945,0.43,Yes,Not the original product.,Neutral,2.1,641,0.81,No,Yes,China,No,135,No,Yes,No,1
+P0239,Adidas T-Shirt,Ray-Ban,Electronics,32098,59,S0239,3.2,7752,0.14,No,Would not recommend this seller.,Neutral,2.1,4704,0.88,Yes,No,India,No,412,No,Yes,Yes,0
+P0240,Adidas T-Shirt,Adidas,Shoes,93606,45,S0240,1.2,5452,0.4,No,Seller is reliable and product is genuine.,Neutral,4.9,4079,0.3,No,No,Germany,No,138,No,Yes,No,0
+P0241,Rolex Watch,Apple,Clothing,27582,18,S0241,3.1,2500,0.1,No,Definitely a counterfeit item.,Neutral,1.0,4662,0.86,No,No,India,No,228,No,Yes,Yes,0
+P0242,Nike Shoes,Adidas,Accessories,29741,67,S0242,4.2,6990,0.17,No,I love this product!,Neutral,3.9,1368,0.86,Yes,No,China,No,273,No,No,No,1
+P0243,Nike Shoes,Apple,Clothing,96714,41,S0243,2.8,9144,0.17,Yes,Satisfactory purchase.,Neutral,3.8,4043,0.76,Yes,No,India,Yes,438,Yes,No,No,1
+P0244,Rolex Watch,Adidas,Electronics,45069,31,S0244,1.2,7671,0.49,Yes,Definitely a counterfeit item.,Neutral,3.5,2576,0.15,No,No,USA,Yes,49,No,No,No,1
+P0245,Rolex Watch,Rolex,Electronics,12245,38,S0245,4.1,1734,0.43,No,Worth the price.,Neutral,5.0,3604,0.69,Yes,No,India,No,397,No,No,No,1
+P0246,Rolex Watch,Rolex,Clothing,26529,35,S0246,1.8,8192,0.35,No,Cheap materials used.,Negative,2.2,1582,0.95,No,Yes,India,No,117,Yes,Yes,No,0
+P0247,Ray-Ban Sunglasses,Rolex,Clothing,13525,35,S0247,2.0,2777,0.36,No,I love this product!,Neutral,2.4,1987,0.68,No,No,Germany,No,201,No,Yes,No,0
+P0248,Nike Shoes,Rolex,Shoes,14788,2,S0248,1.7,1147,0.28,No,The logo is slightly different.,Neutral,1.3,2241,0.33,Yes,Yes,USA,Yes,482,No,No,No,0
+P0249,Ray-Ban Sunglasses,Nike,Electronics,89686,7,S0249,2.3,4127,0.47,No,Definitely a counterfeit item.,Negative,2.8,3967,0.5,No,No,USA,Yes,392,Yes,No,Yes,1
+P0250,Rolex Watch,Rolex,Electronics,7040,69,S0250,4.0,3430,0.25,Yes,Satisfactory purchase.,Neutral,2.0,2106,0.65,No,No,India,No,482,Yes,Yes,Yes,1
+P0251,Nike Shoes,Ray-Ban,Clothing,98268,40,S0251,3.1,5855,0.19,Yes,Satisfactory purchase.,Negative,2.4,129,0.51,Yes,Yes,Germany,Yes,394,No,Yes,Yes,0
+P0252,Ray-Ban Sunglasses,Ray-Ban,Accessories,82458,67,S0252,1.8,4788,0.08,Yes,Definitely a counterfeit item.,Neutral,4.3,4802,0.12,Yes,No,India,No,190,Yes,No,Yes,0
+P0253,Ray-Ban Sunglasses,Nike,Electronics,69378,12,S0253,4.5,3916,0.39,No,Worth the price.,Negative,4.7,3997,0.31,Yes,Yes,India,No,363,No,No,No,1
+P0254,Rolex Watch,Rolex,Accessories,42346,48,S0254,4.5,3647,0.37,No,The logo is slightly different.,Neutral,1.7,852,0.8,Yes,No,China,No,459,Yes,No,No,0
+P0255,Nike Shoes,Rolex,Clothing,76432,59,S0255,4.5,2963,0.19,No,Not the original product.,Neutral,2.5,4104,0.86,No,Yes,China,No,322,No,Yes,No,0
+P0256,Rolex Watch,Rolex,Clothing,17982,1,S0256,2.0,5939,0.01,No,Worth the price.,Neutral,4.7,2077,0.14,Yes,No,Germany,No,180,No,No,Yes,1
+P0257,Nike Shoes,Adidas,Shoes,23911,59,S0257,2.8,286,0.42,Yes,Great quality product!,Neutral,1.2,2995,0.95,Yes,Yes,Vietnam,No,422,No,No,Yes,1
+P0258,Adidas T-Shirt,Apple,Electronics,51475,4,S0258,4.9,2009,0.01,Yes,Seller is reliable and product is genuine.,Neutral,1.4,3745,0.33,Yes,Yes,China,No,77,Yes,No,Yes,1
+P0259,Apple iPhone,Adidas,Accessories,61045,43,S0259,4.1,1237,0.35,No,The logo is slightly different.,Neutral,1.7,2757,0.66,Yes,No,Vietnam,Yes,439,No,No,No,0
+P0260,Apple iPhone,Apple,Shoes,79297,26,S0260,1.1,6347,0.49,Yes,I love this product!,Neutral,3.4,1645,0.75,Yes,No,USA,No,411,Yes,No,Yes,1
+P0261,Apple iPhone,Rolex,Electronics,52807,31,S0261,1.3,3745,0.22,Yes,Looks fake compared to original.,Neutral,1.6,4372,0.81,No,Yes,China,Yes,74,No,Yes,No,0
+P0262,Rolex Watch,Rolex,Shoes,3593,20,S0262,2.9,705,0.12,No,The product stopped working in 2 days.,Neutral,4.9,3145,0.95,Yes,No,China,No,294,No,No,Yes,0
+P0263,Adidas T-Shirt,Adidas,Clothing,77758,7,S0263,4.6,9511,0.35,No,Would not recommend this seller.,Negative,2.8,243,0.31,No,Yes,Germany,No,280,No,Yes,No,1
+P0264,Nike Shoes,Adidas,Electronics,22542,49,S0264,3.2,4162,0.41,No,Definitely a counterfeit item.,Neutral,3.0,4086,0.86,Yes,No,Vietnam,Yes,20,No,No,Yes,0
+P0265,Ray-Ban Sunglasses,Apple,Shoes,53430,66,S0265,3.0,7911,0.27,No,I love this product!,Neutral,2.0,171,0.13,Yes,Yes,China,Yes,393,No,No,No,1
+P0266,Nike Shoes,Ray-Ban,Shoes,44913,43,S0266,1.4,7480,0.48,No,Worth the price.,Neutral,2.9,653,0.71,Yes,No,China,No,170,Yes,No,Yes,1
+P0267,Ray-Ban Sunglasses,Apple,Accessories,94123,57,S0267,3.6,7547,0.03,No,Suspicious branding on packaging.,Neutral,3.6,3513,0.74,Yes,Yes,Germany,Yes,14,Yes,Yes,Yes,0
+P0268,Nike Shoes,Adidas,Shoes,98383,2,S0268,4.3,2851,0.25,Yes,Best deal in the market!,Positive,4.0,1500,0.68,Yes,No,Germany,No,210,Yes,Yes,No,0
+P0269,Adidas T-Shirt,Adidas,Electronics,34256,69,S0269,2.5,4218,0.36,Yes,Not the original product.,Negative,4.0,2100,0.25,Yes,Yes,Vietnam,No,47,No,Yes,No,1
+P0270,Ray-Ban Sunglasses,Nike,Electronics,53768,1,S0270,4.1,8743,0.43,No,Cheap materials used.,Neutral,3.3,2159,0.87,Yes,Yes,USA,Yes,85,No,No,Yes,1
+P0271,Rolex Watch,Adidas,Accessories,39714,43,S0271,4.9,1098,0.09,Yes,The logo is slightly different.,Neutral,4.6,1973,0.17,Yes,No,USA,Yes,148,Yes,No,No,1
+P0272,Nike Shoes,Nike,Electronics,82371,1,S0272,1.8,3373,0.4,No,Definitely a counterfeit item.,Neutral,4.3,3926,0.05,No,No,India,Yes,187,No,Yes,Yes,1
+P0273,Nike Shoes,Ray-Ban,Clothing,29102,34,S0273,3.1,34,0.28,No,Suspicious branding on packaging.,Neutral,4.0,2259,0.72,Yes,Yes,China,Yes,371,No,Yes,No,1
+P0274,Ray-Ban Sunglasses,Apple,Electronics,53831,29,S0274,2.1,9774,0.2,No,Cheap materials used.,Neutral,1.2,4040,0.48,No,Yes,Vietnam,No,491,No,No,Yes,1
+P0275,Rolex Watch,Apple,Electronics,49401,7,S0275,4.2,6154,0.07,No,The logo is slightly different.,Neutral,1.0,2036,0.85,Yes,Yes,China,Yes,479,Yes,Yes,No,0
+P0276,Rolex Watch,Nike,Shoes,63916,21,S0276,3.3,5678,0.43,Yes,The logo is slightly different.,Neutral,1.8,3272,0.38,No,Yes,Vietnam,Yes,305,Yes,No,Yes,0
+P0277,Adidas T-Shirt,Apple,Shoes,32696,43,S0277,3.5,4246,0.08,No,Best deal in the market!,Neutral,3.7,858,0.17,Yes,No,Vietnam,Yes,150,Yes,Yes,Yes,0
+P0278,Rolex Watch,Adidas,Electronics,6126,57,S0278,4.2,9969,0.15,Yes,Satisfactory purchase.,Neutral,2.6,3824,0.84,Yes,Yes,Vietnam,Yes,140,Yes,Yes,Yes,0
+P0279,Rolex Watch,Rolex,Accessories,7924,35,S0279,2.6,8078,0.15,No,Suspicious branding on packaging.,Negative,2.6,1050,0.55,Yes,Yes,China,Yes,68,Yes,Yes,No,1
+P0280,Rolex Watch,Nike,Shoes,13357,68,S0280,4.7,2245,0.44,No,Highly recommended!,Neutral,4.5,3991,0.19,No,Yes,Germany,No,259,No,No,Yes,0
+P0281,Apple iPhone,Apple,Accessories,20482,30,S0281,3.1,7305,0.34,No,Worth the price.,Neutral,4.6,299,0.72,No,No,China,No,475,No,No,No,0
+P0282,Adidas T-Shirt,Nike,Electronics,77461,46,S0282,1.6,8402,0.4,Yes,Highly recommended!,Neutral,4.6,924,0.51,No,Yes,Vietnam,Yes,333,No,Yes,No,1
+P0283,Nike Shoes,Nike,Electronics,2480,54,S0283,3.8,8458,0.13,No,The product stopped working in 2 days.,Negative,2.3,4233,0.6,No,No,India,Yes,455,No,No,No,0
+P0284,Ray-Ban Sunglasses,Rolex,Clothing,48790,61,S0284,4.2,3757,0.31,No,Highly recommended!,Neutral,3.8,4307,0.46,Yes,No,USA,No,8,Yes,No,Yes,1
+P0285,Nike Shoes,Adidas,Shoes,26931,29,S0285,2.3,3185,0.29,No,Best deal in the market!,Neutral,2.1,2800,0.83,Yes,No,Vietnam,Yes,120,Yes,No,No,1
+P0286,Adidas T-Shirt,Nike,Electronics,85476,54,S0286,4.4,4907,0.42,Yes,Best deal in the market!,Neutral,1.8,4876,0.83,Yes,No,India,No,370,No,No,No,1
+P0287,Ray-Ban Sunglasses,Apple,Clothing,83211,15,S0287,4.6,5047,0.45,Yes,Highly recommended!,Neutral,1.7,4063,0.71,No,No,Germany,No,418,Yes,Yes,No,1
+P0288,Adidas T-Shirt,Ray-Ban,Shoes,26885,11,S0288,2.1,7437,0.01,Yes,Packaging looks authentic.,Negative,2.4,4046,0.11,Yes,No,Vietnam,Yes,100,No,No,Yes,1
+P0289,Rolex Watch,Nike,Electronics,38658,16,S0289,4.9,8615,0.34,No,Satisfactory purchase.,Neutral,2.7,1803,0.84,No,No,India,No,148,No,No,No,0
+P0290,Ray-Ban Sunglasses,Nike,Electronics,23519,15,S0290,1.6,2024,0.03,Yes,Would not recommend this seller.,Neutral,4.3,2714,0.67,No,Yes,Vietnam,Yes,441,No,Yes,No,0
+P0291,Rolex Watch,Rolex,Shoes,19139,11,S0291,1.8,1391,0.27,No,Satisfactory purchase.,Positive,1.5,4507,0.7,No,Yes,China,Yes,145,No,No,No,0
+P0292,Nike Shoes,Adidas,Shoes,86030,7,S0292,1.7,1108,0.14,Yes,Best deal in the market!,Neutral,3.9,2854,0.36,No,No,India,No,352,Yes,No,No,1
+P0293,Nike Shoes,Ray-Ban,Shoes,22063,2,S0293,4.6,3436,0.15,Yes,Would not recommend this seller.,Neutral,3.1,2658,0.88,No,Yes,China,No,455,No,No,Yes,0
+P0294,Ray-Ban Sunglasses,Apple,Electronics,39841,15,S0294,3.6,3665,0.18,No,The product stopped working in 2 days.,Neutral,2.2,4523,0.73,Yes,Yes,China,Yes,242,Yes,Yes,Yes,0
+P0295,Ray-Ban Sunglasses,Ray-Ban,Electronics,6276,29,S0295,1.6,7948,0.31,Yes,I love this product!,Neutral,3.0,3347,0.11,No,No,India,No,240,No,Yes,No,0
+P0296,Adidas T-Shirt,Apple,Clothing,36944,22,S0296,2.8,9111,0.17,No,Satisfactory purchase.,Negative,2.2,1472,0.41,No,Yes,USA,Yes,336,No,No,No,0
+P0297,Adidas T-Shirt,Adidas,Accessories,69416,4,S0297,3.5,197,0.37,No,Suspicious branding on packaging.,Negative,3.4,2950,0.89,Yes,No,India,No,42,No,No,No,1
+P0298,Rolex Watch,Apple,Shoes,9211,64,S0298,1.3,5419,0.2,Yes,Looks fake compared to original.,Neutral,2.7,942,0.05,No,Yes,USA,No,94,No,Yes,No,0
+P0299,Ray-Ban Sunglasses,Rolex,Electronics,74818,29,S0299,4.5,2102,0.03,No,The logo is slightly different.,Positive,1.7,1908,0.96,No,No,Vietnam,Yes,225,Yes,Yes,Yes,1
+P0300,Nike Shoes,Rolex,Electronics,83470,20,S0300,4.2,2140,0.39,No,Seller is reliable and product is genuine.,Neutral,1.5,4838,0.68,Yes,No,Vietnam,Yes,5,No,Yes,Yes,1
+P0301,Adidas T-Shirt,Rolex,Shoes,86053,69,S0301,3.0,5252,0.14,Yes,Seller is reliable and product is genuine.,Neutral,3.2,1244,0.63,Yes,Yes,India,Yes,213,Yes,No,Yes,0
+P0302,Adidas T-Shirt,Rolex,Accessories,31207,21,S0302,4.9,8559,0.22,Yes,Would not recommend this seller.,Negative,4.6,4424,0.27,Yes,Yes,Vietnam,No,205,No,No,Yes,1
+P0303,Nike Shoes,Ray-Ban,Shoes,39610,31,S0303,2.7,5657,0.34,No,The logo is slightly different.,Neutral,2.4,1467,0.25,No,No,Germany,Yes,66,No,Yes,No,1
+P0304,Adidas T-Shirt,Adidas,Accessories,62288,32,S0304,4.9,5195,0.17,Yes,Highly recommended!,Neutral,3.9,3958,0.94,Yes,No,China,Yes,395,No,No,No,1
+P0305,Rolex Watch,Apple,Electronics,83379,15,S0305,3.7,5786,0.03,No,I love this product!,Neutral,3.6,1967,0.3,Yes,No,China,No,99,Yes,No,Yes,1
+P0306,Ray-Ban Sunglasses,Apple,Accessories,39327,37,S0306,3.5,7923,0.19,No,Definitely a counterfeit item.,Neutral,4.7,376,0.78,Yes,Yes,USA,No,11,No,No,Yes,1
+P0307,Nike Shoes,Rolex,Clothing,6155,13,S0307,1.7,7557,0.47,Yes,Cheap materials used.,Neutral,4.3,263,0.39,No,Yes,Vietnam,Yes,236,No,No,No,1
+P0308,Ray-Ban Sunglasses,Rolex,Electronics,45359,35,S0308,4.5,7833,0.32,Yes,Cheap materials used.,Neutral,3.3,4363,0.14,Yes,Yes,USA,Yes,321,No,No,No,1
+P0309,Adidas T-Shirt,Nike,Clothing,54125,22,S0309,2.7,7365,0.34,Yes,Suspicious branding on packaging.,Neutral,3.6,3389,0.01,No,Yes,China,Yes,257,No,No,No,0
+P0310,Adidas T-Shirt,Adidas,Shoes,52598,65,S0310,1.6,6475,0.32,Yes,Cheap materials used.,Neutral,4.6,3396,0.54,No,No,China,Yes,398,No,No,No,0
+P0311,Nike Shoes,Ray-Ban,Shoes,15751,1,S0311,1.1,1507,0.1,No,Highly recommended!,Positive,2.6,1945,0.98,Yes,No,Vietnam,No,406,Yes,Yes,No,1
+P0312,Rolex Watch,Apple,Shoes,1026,64,S0312,3.2,2565,0.21,No,Packaging looks authentic.,Neutral,2.3,1894,0.37,No,No,Germany,No,412,Yes,Yes,Yes,1
+P0313,Apple iPhone,Nike,Accessories,69260,66,S0313,3.1,5419,0.38,Yes,The logo is slightly different.,Negative,1.0,3635,0.36,No,No,Germany,Yes,336,No,Yes,Yes,0
+P0314,Nike Shoes,Nike,Electronics,48337,51,S0314,3.9,2961,0.05,Yes,Packaging looks authentic.,Positive,4.3,1653,0.34,Yes,Yes,Vietnam,Yes,479,No,Yes,No,0
+P0315,Apple iPhone,Apple,Shoes,12036,61,S0315,4.6,1248,0.14,No,The logo is slightly different.,Neutral,4.2,4142,0.52,No,No,Vietnam,Yes,134,Yes,Yes,No,0
+P0316,Apple iPhone,Ray-Ban,Shoes,29041,22,S0316,1.3,9175,0.14,No,The logo is slightly different.,Neutral,1.4,3893,0.44,Yes,No,USA,No,221,No,Yes,Yes,0
+P0317,Rolex Watch,Nike,Electronics,79583,25,S0317,3.9,4737,0.22,No,Satisfactory purchase.,Neutral,3.3,600,0.88,No,Yes,Vietnam,Yes,155,Yes,Yes,No,1
+P0318,Apple iPhone,Nike,Shoes,51527,67,S0318,1.7,3975,0.49,No,Packaging looks authentic.,Neutral,2.9,4816,0.51,No,Yes,Germany,Yes,141,No,Yes,Yes,1
+P0319,Apple iPhone,Adidas,Clothing,35031,54,S0319,4.4,5696,0.03,Yes,Worth the price.,Neutral,1.5,1913,0.51,Yes,No,Vietnam,No,427,No,Yes,Yes,0
+P0320,Rolex Watch,Ray-Ban,Electronics,9212,5,S0320,4.3,9252,0.26,No,Packaging looks authentic.,Neutral,4.9,1293,0.14,Yes,Yes,USA,No,157,Yes,No,Yes,0
+P0321,Apple iPhone,Nike,Electronics,65955,34,S0321,3.2,3711,0.09,No,Worth the price.,Positive,1.9,601,0.98,No,No,USA,Yes,464,No,No,Yes,0
+P0322,Apple iPhone,Ray-Ban,Electronics,75244,21,S0322,3.8,2790,0.49,Yes,The product stopped working in 2 days.,Neutral,1.3,381,0.25,No,Yes,USA,Yes,415,Yes,Yes,No,0
+P0323,Apple iPhone,Apple,Clothing,5609,42,S0323,2.3,7408,0.06,No,Best deal in the market!,Neutral,3.4,4214,0.07,Yes,Yes,USA,No,493,Yes,No,No,1
+P0324,Nike Shoes,Rolex,Electronics,49768,14,S0324,2.9,1598,0.2,No,Great quality product!,Neutral,4.0,3638,0.66,No,No,India,Yes,325,Yes,No,Yes,0
+P0325,Nike Shoes,Nike,Clothing,55115,59,S0325,4.3,2378,0.37,Yes,Looks fake compared to original.,Neutral,1.1,2164,0.6,No,Yes,Vietnam,Yes,370,No,Yes,No,0
+P0326,Nike Shoes,Adidas,Electronics,83003,11,S0326,2.8,5799,0.35,Yes,Would not recommend this seller.,Neutral,3.6,4356,0.42,No,No,China,No,343,Yes,Yes,No,0
+P0327,Rolex Watch,Apple,Accessories,30259,48,S0327,2.4,446,0.21,Yes,Seller is reliable and product is genuine.,Neutral,3.1,1099,0.42,No,Yes,Vietnam,No,261,Yes,Yes,No,1
+P0328,Adidas T-Shirt,Ray-Ban,Shoes,86208,41,S0328,3.0,2838,0.17,No,Looks fake compared to original.,Positive,1.4,366,0.79,Yes,Yes,India,No,282,No,No,No,1
+P0329,Apple iPhone,Apple,Accessories,60612,37,S0329,4.3,1566,0.2,No,Great quality product!,Neutral,1.7,2571,0.2,Yes,Yes,USA,Yes,337,No,No,Yes,1
+P0330,Apple iPhone,Nike,Shoes,27089,44,S0330,2.3,7580,0.13,Yes,Highly recommended!,Neutral,3.3,3420,0.82,Yes,Yes,India,No,343,No,Yes,No,0
+P0331,Rolex Watch,Ray-Ban,Clothing,30515,34,S0331,1.7,7490,0.1,Yes,I love this product!,Neutral,2.2,2477,0.65,Yes,Yes,Germany,No,228,No,No,Yes,0
+P0332,Apple iPhone,Rolex,Accessories,29509,29,S0332,3.8,9506,0.24,No,Would not recommend this seller.,Neutral,4.8,791,0.42,Yes,No,Germany,Yes,375,No,No,Yes,0
+P0333,Nike Shoes,Apple,Electronics,83809,29,S0333,4.3,192,0.13,Yes,The product stopped working in 2 days.,Negative,4.3,3570,0.46,Yes,Yes,Vietnam,Yes,279,No,No,No,1
+P0334,Adidas T-Shirt,Nike,Shoes,62546,5,S0334,1.4,7200,0.14,Yes,Would not recommend this seller.,Neutral,4.9,747,0.26,No,No,Vietnam,No,357,Yes,Yes,Yes,1
+P0335,Ray-Ban Sunglasses,Adidas,Shoes,26643,66,S0335,2.0,6697,0.33,Yes,Cheap materials used.,Neutral,2.0,313,0.75,Yes,Yes,China,No,289,No,No,No,0
+P0336,Apple iPhone,Ray-Ban,Accessories,6654,6,S0336,1.6,5575,0.48,No,Best deal in the market!,Neutral,4.9,4634,0.51,No,No,China,Yes,167,Yes,No,No,0
+P0337,Nike Shoes,Apple,Clothing,22304,51,S0337,2.4,7251,0.3,No,Not the original product.,Neutral,2.7,921,0.32,No,Yes,Germany,Yes,46,No,No,Yes,1
+P0338,Ray-Ban Sunglasses,Apple,Accessories,42188,13,S0338,2.8,7661,0.04,No,Packaging looks authentic.,Neutral,2.4,1078,0.6,No,No,USA,No,462,Yes,No,No,0
+P0339,Adidas T-Shirt,Rolex,Clothing,64788,14,S0339,4.0,5585,0.04,No,Seller is reliable and product is genuine.,Neutral,1.2,2830,1.0,Yes,No,India,No,202,Yes,No,Yes,0
+P0340,Ray-Ban Sunglasses,Rolex,Clothing,51695,20,S0340,3.6,1599,0.48,No,Not the original product.,Neutral,1.2,2382,0.44,No,Yes,China,Yes,213,No,No,Yes,0
+P0341,Nike Shoes,Adidas,Shoes,21081,34,S0341,3.5,9789,0.15,No,The product stopped working in 2 days.,Neutral,3.8,3619,0.92,Yes,Yes,China,No,245,No,No,No,1
+P0342,Ray-Ban Sunglasses,Adidas,Accessories,53148,65,S0342,2.4,8861,0.05,Yes,Looks fake compared to original.,Neutral,2.8,798,0.35,No,Yes,USA,Yes,23,Yes,Yes,No,0
+P0343,Rolex Watch,Nike,Accessories,30587,1,S0343,4.4,169,0.3,No,Seller is reliable and product is genuine.,Neutral,1.9,4444,0.05,No,No,USA,No,320,No,Yes,No,0
+P0344,Ray-Ban Sunglasses,Nike,Clothing,50430,34,S0344,2.9,6565,0.31,No,Definitely a counterfeit item.,Neutral,3.5,273,0.2,Yes,No,Vietnam,Yes,273,No,No,Yes,0
+P0345,Apple iPhone,Adidas,Accessories,33481,19,S0345,4.9,9213,0.32,Yes,Satisfactory purchase.,Neutral,2.0,3011,0.42,No,Yes,India,Yes,43,Yes,Yes,No,0
+P0346,Apple iPhone,Adidas,Electronics,69798,9,S0346,3.5,8254,0.13,No,Packaging looks authentic.,Neutral,3.3,4816,0.22,No,Yes,USA,No,331,Yes,No,Yes,1
+P0347,Rolex Watch,Ray-Ban,Electronics,46667,24,S0347,1.5,6856,0.01,No,Suspicious branding on packaging.,Neutral,2.4,1774,0.0,No,No,China,No,312,Yes,No,Yes,1
+P0348,Nike Shoes,Rolex,Accessories,75804,65,S0348,3.7,2317,0.48,Yes,Definitely a counterfeit item.,Neutral,4.3,2548,0.92,No,No,China,Yes,362,No,No,No,1
+P0349,Apple iPhone,Nike,Accessories,43908,24,S0349,2.3,1238,0.13,Yes,Packaging looks authentic.,Neutral,4.3,3165,0.84,Yes,Yes,Germany,No,155,No,Yes,No,0
+P0350,Adidas T-Shirt,Rolex,Clothing,39999,53,S0350,3.7,7236,0.34,Yes,Packaging looks authentic.,Neutral,2.9,4781,0.74,No,No,USA,No,487,No,No,No,1
+P0351,Apple iPhone,Rolex,Electronics,52769,32,S0351,1.3,5600,0.35,No,Satisfactory purchase.,Neutral,2.4,4718,0.17,No,Yes,Vietnam,No,379,No,No,Yes,0
+P0352,Apple iPhone,Adidas,Electronics,39059,35,S0352,1.7,6929,0.31,Yes,Suspicious branding on packaging.,Neutral,2.5,947,0.12,Yes,Yes,India,Yes,198,Yes,Yes,No,1
+P0353,Nike Shoes,Ray-Ban,Shoes,74819,13,S0353,4.4,5595,0.16,No,Satisfactory purchase.,Neutral,4.2,2666,0.07,No,Yes,Vietnam,No,406,No,Yes,Yes,0
+P0354,Ray-Ban Sunglasses,Apple,Clothing,95817,64,S0354,1.9,9237,0.14,No,Great quality product!,Neutral,2.3,507,0.72,No,No,China,No,468,Yes,No,No,1
+P0355,Apple iPhone,Ray-Ban,Shoes,96847,53,S0355,4.3,6056,0.3,No,Highly recommended!,Neutral,1.8,244,0.93,No,No,Vietnam,Yes,161,No,Yes,No,1
+P0356,Rolex Watch,Ray-Ban,Electronics,49287,51,S0356,2.1,4955,0.43,No,Looks fake compared to original.,Neutral,1.3,506,0.43,No,No,China,No,394,No,Yes,Yes,1
+P0357,Ray-Ban Sunglasses,Rolex,Clothing,35988,2,S0357,3.6,7937,0.47,Yes,The logo is slightly different.,Neutral,2.9,4518,0.12,Yes,No,China,No,469,Yes,No,Yes,0
+P0358,Adidas T-Shirt,Ray-Ban,Accessories,74941,40,S0358,3.8,7026,0.05,Yes,Suspicious branding on packaging.,Neutral,2.9,3159,0.51,No,Yes,China,Yes,233,No,No,No,0
+P0359,Nike Shoes,Nike,Clothing,75163,5,S0359,3.1,7768,0.08,No,Packaging looks authentic.,Neutral,4.4,3591,0.35,Yes,No,China,Yes,162,No,No,No,0
+P0360,Adidas T-Shirt,Rolex,Accessories,22931,24,S0360,2.2,5096,0.47,Yes,Not the original product.,Neutral,1.9,1873,0.37,No,Yes,China,No,115,Yes,Yes,No,1
+P0361,Ray-Ban Sunglasses,Nike,Accessories,62181,12,S0361,1.9,9466,0.37,No,Would not recommend this seller.,Neutral,2.5,3794,0.62,No,Yes,Germany,No,92,No,Yes,No,0
+P0362,Ray-Ban Sunglasses,Apple,Clothing,63983,7,S0362,1.1,7171,0.44,No,Satisfactory purchase.,Neutral,4.2,1193,0.72,No,Yes,Vietnam,Yes,41,Yes,Yes,No,0
+P0363,Ray-Ban Sunglasses,Rolex,Accessories,49653,20,S0363,2.2,1894,0.1,No,Packaging looks authentic.,Neutral,4.3,4426,0.11,Yes,No,Germany,Yes,283,Yes,No,Yes,0
+P0364,Adidas T-Shirt,Apple,Shoes,6868,67,S0364,3.6,1819,0.29,Yes,Definitely a counterfeit item.,Neutral,2.5,4746,0.04,No,Yes,Germany,No,378,Yes,Yes,Yes,0
+P0365,Ray-Ban Sunglasses,Rolex,Electronics,27924,24,S0365,4.8,3177,0.35,No,The product stopped working in 2 days.,Neutral,2.8,1465,0.99,No,Yes,USA,No,209,Yes,Yes,Yes,0
+P0366,Adidas T-Shirt,Adidas,Accessories,45504,67,S0366,4.5,6362,0.34,No,Suspicious branding on packaging.,Neutral,2.2,391,0.23,Yes,No,USA,No,205,No,No,Yes,0
+P0367,Ray-Ban Sunglasses,Ray-Ban,Shoes,84369,44,S0367,4.1,9019,0.2,Yes,Highly recommended!,Neutral,4.7,4477,0.05,Yes,Yes,USA,Yes,465,No,No,No,1
+P0368,Rolex Watch,Adidas,Accessories,89152,59,S0368,4.2,6066,0.01,Yes,I love this product!,Neutral,1.5,3378,0.19,Yes,No,India,No,219,No,No,Yes,1
+P0369,Ray-Ban Sunglasses,Apple,Electronics,57485,11,S0369,3.7,2447,0.29,Yes,I love this product!,Neutral,4.7,4838,0.04,Yes,No,USA,Yes,279,Yes,Yes,Yes,0
+P0370,Adidas T-Shirt,Ray-Ban,Shoes,50569,31,S0370,2.0,6478,0.13,Yes,Seller is reliable and product is genuine.,Neutral,3.7,4916,0.39,No,No,Vietnam,Yes,135,No,No,Yes,1
+P0371,Apple iPhone,Rolex,Electronics,52826,12,S0371,4.6,9090,0.23,No,Cheap materials used.,Neutral,3.1,673,0.8,No,Yes,Germany,Yes,105,No,Yes,No,1
+P0372,Ray-Ban Sunglasses,Ray-Ban,Electronics,81561,30,S0372,3.7,5961,0.48,Yes,Great quality product!,Negative,1.1,2561,0.34,No,No,Vietnam,No,117,No,Yes,Yes,0
+P0373,Apple iPhone,Nike,Shoes,23898,19,S0373,3.2,5286,0.2,No,Packaging looks authentic.,Neutral,2.9,1212,0.44,No,No,USA,No,236,No,No,No,0
+P0374,Rolex Watch,Ray-Ban,Shoes,98893,17,S0374,1.4,8869,0.42,Yes,Suspicious branding on packaging.,Neutral,2.6,930,0.68,Yes,No,India,No,308,Yes,No,Yes,1
+P0375,Nike Shoes,Nike,Shoes,51361,59,S0375,2.8,7828,0.09,Yes,Looks fake compared to original.,Neutral,1.6,1540,0.51,No,No,India,Yes,455,Yes,No,No,0
+P0376,Rolex Watch,Ray-Ban,Clothing,76397,62,S0376,2.8,4738,0.34,Yes,Seller is reliable and product is genuine.,Neutral,3.6,913,0.86,No,Yes,Germany,No,387,No,No,Yes,1
+P0377,Ray-Ban Sunglasses,Nike,Shoes,82405,5,S0377,4.5,2634,0.49,Yes,Definitely a counterfeit item.,Neutral,4.9,644,0.87,No,No,Vietnam,Yes,474,Yes,No,No,1
+P0378,Apple iPhone,Apple,Shoes,69077,31,S0378,3.2,5748,0.05,Yes,The logo is slightly different.,Negative,3.2,4523,0.01,No,Yes,China,Yes,99,No,Yes,Yes,1
+P0379,Apple iPhone,Adidas,Shoes,66141,42,S0379,2.5,4242,0.0,Yes,Would not recommend this seller.,Neutral,3.9,502,0.78,Yes,No,Vietnam,Yes,260,No,Yes,No,0
+P0380,Adidas T-Shirt,Rolex,Shoes,9578,1,S0380,4.9,5803,0.22,No,Seller is reliable and product is genuine.,Neutral,1.3,730,0.46,No,Yes,USA,Yes,480,No,Yes,No,1
+P0381,Apple iPhone,Ray-Ban,Accessories,25503,59,S0381,1.4,4533,0.05,Yes,Best deal in the market!,Neutral,2.7,1284,0.99,No,No,China,Yes,304,Yes,No,Yes,0
+P0382,Adidas T-Shirt,Adidas,Clothing,63268,22,S0382,2.7,5581,0.37,Yes,Worth the price.,Neutral,1.5,2119,0.48,No,Yes,India,Yes,353,No,Yes,No,0
+P0383,Nike Shoes,Rolex,Electronics,51547,30,S0383,1.2,9020,0.46,Yes,Packaging looks authentic.,Neutral,3.5,4553,0.99,Yes,No,Germany,No,285,Yes,No,No,0
+P0384,Ray-Ban Sunglasses,Rolex,Shoes,72126,4,S0384,4.0,9308,0.22,Yes,Satisfactory purchase.,Neutral,4.8,4387,0.75,Yes,Yes,Germany,Yes,327,Yes,No,Yes,0
+P0385,Adidas T-Shirt,Nike,Accessories,58160,33,S0385,4.7,2234,0.13,No,The product stopped working in 2 days.,Neutral,3.6,3837,0.25,No,Yes,India,No,102,No,Yes,Yes,0
+P0386,Nike Shoes,Apple,Accessories,50286,9,S0386,2.1,8399,0.22,Yes,The logo is slightly different.,Neutral,1.3,920,0.54,No,Yes,USA,Yes,62,Yes,Yes,No,1
+P0387,Apple iPhone,Apple,Accessories,2425,1,S0387,4.4,6101,0.36,Yes,The logo is slightly different.,Neutral,2.4,4051,0.99,No,No,India,No,174,Yes,No,Yes,0
+P0388,Apple iPhone,Adidas,Electronics,84476,10,S0388,2.2,8672,0.0,Yes,The logo is slightly different.,Neutral,3.2,2340,0.86,Yes,Yes,USA,No,281,No,Yes,Yes,0
+P0389,Nike Shoes,Apple,Shoes,26515,49,S0389,4.6,6371,0.29,Yes,Looks fake compared to original.,Negative,2.6,756,0.1,No,Yes,China,No,440,Yes,No,Yes,0
+P0390,Apple iPhone,Ray-Ban,Clothing,33820,30,S0390,4.0,1958,0.31,No,Worth the price.,Neutral,4.3,1870,0.71,No,Yes,India,No,292,Yes,Yes,No,0
+P0391,Nike Shoes,Apple,Clothing,65381,55,S0391,4.2,7104,0.32,Yes,Satisfactory purchase.,Neutral,4.3,4473,0.35,No,Yes,USA,Yes,225,No,Yes,No,0
+P0392,Adidas T-Shirt,Adidas,Accessories,91327,8,S0392,1.1,6328,0.12,No,The product stopped working in 2 days.,Neutral,3.4,508,0.01,Yes,No,China,Yes,6,No,Yes,No,1
+P0393,Adidas T-Shirt,Apple,Electronics,26789,20,S0393,4.9,3806,0.36,Yes,Definitely a counterfeit item.,Neutral,2.5,1437,0.4,No,Yes,India,Yes,126,Yes,Yes,No,0
+P0394,Nike Shoes,Ray-Ban,Electronics,3889,27,S0394,3.9,244,0.05,No,Definitely a counterfeit item.,Neutral,2.0,2576,0.23,No,Yes,Germany,Yes,423,No,Yes,No,0
+P0395,Adidas T-Shirt,Nike,Electronics,26183,61,S0395,2.2,9130,0.1,No,The logo is slightly different.,Neutral,1.4,3427,0.82,Yes,Yes,India,No,91,No,No,No,1
+P0396,Adidas T-Shirt,Adidas,Clothing,14129,6,S0396,4.3,3617,0.44,Yes,Looks fake compared to original.,Neutral,2.4,559,0.34,Yes,No,Vietnam,No,422,Yes,Yes,No,0
+P0397,Adidas T-Shirt,Nike,Accessories,62050,15,S0397,2.1,8053,0.37,Yes,The product stopped working in 2 days.,Neutral,2.7,3103,0.83,No,Yes,India,No,189,Yes,Yes,Yes,1
+P0398,Rolex Watch,Nike,Shoes,25326,3,S0398,4.5,532,0.01,No,Would not recommend this seller.,Neutral,3.7,4517,0.0,Yes,Yes,Vietnam,Yes,358,No,Yes,No,1
+P0399,Ray-Ban Sunglasses,Nike,Clothing,27130,3,S0399,1.5,5914,0.12,No,Highly recommended!,Neutral,3.6,3623,0.31,No,Yes,China,No,475,Yes,No,No,1
+P0400,Apple iPhone,Rolex,Accessories,99262,39,S0400,3.8,4898,0.11,Yes,Highly recommended!,Neutral,1.3,4400,0.24,Yes,Yes,India,Yes,461,No,No,Yes,1
+P0401,Rolex Watch,Rolex,Accessories,46663,16,S0401,3.2,9831,0.14,No,Best deal in the market!,Negative,2.6,4058,0.23,Yes,No,China,No,52,No,No,Yes,0
+P0402,Adidas T-Shirt,Nike,Shoes,99011,51,S0402,1.4,5842,0.12,No,Worth the price.,Neutral,1.7,3716,0.07,No,Yes,China,No,241,Yes,No,Yes,0
+P0403,Nike Shoes,Adidas,Shoes,66935,51,S0403,2.0,7132,0.03,No,I love this product!,Neutral,1.6,1302,0.19,No,Yes,USA,No,485,Yes,No,No,1
+P0404,Adidas T-Shirt,Ray-Ban,Shoes,12153,35,S0404,1.0,5852,0.23,Yes,The product stopped working in 2 days.,Neutral,4.3,2156,0.56,No,No,China,No,131,No,Yes,Yes,1
+P0405,Ray-Ban Sunglasses,Ray-Ban,Electronics,28461,37,S0405,2.9,1326,0.37,No,Packaging looks authentic.,Neutral,1.2,693,0.29,Yes,No,China,No,489,No,Yes,No,0
+P0406,Adidas T-Shirt,Apple,Shoes,82441,49,S0406,2.2,1134,0.3,No,Definitely a counterfeit item.,Neutral,2.7,4351,0.42,No,No,India,Yes,465,No,Yes,No,1
+P0407,Nike Shoes,Adidas,Accessories,74637,62,S0407,3.4,5631,0.34,No,Definitely a counterfeit item.,Neutral,1.7,1479,0.38,No,Yes,India,No,363,No,No,No,1
+P0408,Ray-Ban Sunglasses,Rolex,Shoes,34162,62,S0408,2.2,5433,0.04,Yes,Worth the price.,Negative,4.5,257,0.88,No,No,Germany,Yes,111,Yes,No,Yes,1
+P0409,Adidas T-Shirt,Nike,Accessories,99318,61,S0409,2.2,2597,0.48,Yes,Cheap materials used.,Negative,3.2,2431,0.91,No,Yes,USA,Yes,408,No,Yes,Yes,0
+P0410,Ray-Ban Sunglasses,Apple,Clothing,56946,6,S0410,4.0,9225,0.42,No,Definitely a counterfeit item.,Neutral,1.9,442,0.49,No,No,China,Yes,6,Yes,No,No,1
+P0411,Apple iPhone,Ray-Ban,Electronics,21788,26,S0411,1.2,5682,0.4,Yes,Packaging looks authentic.,Neutral,3.0,1882,0.33,Yes,Yes,USA,Yes,229,Yes,No,No,0
+P0412,Apple iPhone,Rolex,Clothing,95581,13,S0412,4.6,1388,0.41,No,Worth the price.,Negative,3.9,2647,0.11,No,No,Vietnam,Yes,155,No,No,No,0
+P0413,Adidas T-Shirt,Rolex,Clothing,37377,4,S0413,4.4,3384,0.47,Yes,I love this product!,Negative,4.8,3821,0.95,No,Yes,China,Yes,196,Yes,Yes,Yes,0
+P0414,Ray-Ban Sunglasses,Nike,Accessories,15813,54,S0414,3.7,1529,0.27,Yes,Packaging looks authentic.,Negative,1.9,4678,0.06,Yes,No,USA,Yes,322,Yes,Yes,No,1
+P0415,Nike Shoes,Ray-Ban,Clothing,81385,1,S0415,3.4,5787,0.1,No,Worth the price.,Neutral,4.5,1736,0.3,No,Yes,Germany,Yes,363,No,No,Yes,1
+P0416,Adidas T-Shirt,Adidas,Accessories,73215,61,S0416,4.6,7945,0.31,Yes,The logo is slightly different.,Neutral,4.7,3736,0.3,No,Yes,Germany,No,222,Yes,No,No,0
+P0417,Apple iPhone,Rolex,Shoes,10826,20,S0417,1.7,6103,0.37,Yes,The logo is slightly different.,Neutral,4.7,2646,0.32,No,Yes,China,No,366,Yes,No,Yes,0
+P0418,Apple iPhone,Nike,Shoes,2060,20,S0418,1.3,8428,0.37,Yes,Suspicious branding on packaging.,Neutral,3.5,19,0.16,No,Yes,Vietnam,Yes,489,No,No,No,0
+P0419,Adidas T-Shirt,Adidas,Accessories,79648,9,S0419,2.0,5365,0.26,No,Not the original product.,Neutral,3.5,1125,0.78,No,Yes,Germany,Yes,249,No,Yes,Yes,1
+P0420,Ray-Ban Sunglasses,Ray-Ban,Shoes,83686,57,S0420,4.2,4978,0.03,Yes,I love this product!,Neutral,2.6,3986,0.12,Yes,Yes,Germany,Yes,403,No,No,Yes,1
+P0421,Apple iPhone,Rolex,Electronics,27245,38,S0421,1.1,9093,0.19,Yes,The product stopped working in 2 days.,Neutral,4.0,2655,0.63,Yes,Yes,Vietnam,No,82,No,Yes,Yes,0
+P0422,Ray-Ban Sunglasses,Adidas,Clothing,32390,4,S0422,3.3,5584,0.46,No,The logo is slightly different.,Neutral,3.1,2081,0.12,Yes,Yes,USA,No,239,No,Yes,Yes,0
+P0423,Apple iPhone,Adidas,Electronics,20522,64,S0423,5.0,4082,0.29,Yes,Best deal in the market!,Neutral,3.7,1548,0.07,No,No,Germany,Yes,379,No,Yes,Yes,1
+P0424,Apple iPhone,Adidas,Clothing,53079,12,S0424,4.4,2267,0.27,Yes,Satisfactory purchase.,Neutral,2.7,862,0.91,Yes,Yes,India,Yes,394,No,No,Yes,0
+P0425,Rolex Watch,Rolex,Shoes,70816,52,S0425,3.1,8598,0.13,Yes,Highly recommended!,Neutral,3.9,155,0.19,No,Yes,Germany,No,359,Yes,Yes,No,1
+P0426,Apple iPhone,Rolex,Electronics,84347,44,S0426,1.3,4434,0.18,Yes,Cheap materials used.,Neutral,4.3,3495,0.82,No,No,USA,No,322,Yes,Yes,No,1
+P0427,Nike Shoes,Apple,Shoes,28880,31,S0427,4.3,3247,0.45,Yes,Definitely a counterfeit item.,Neutral,1.6,905,0.54,No,Yes,USA,Yes,470,No,No,No,0
+P0428,Adidas T-Shirt,Ray-Ban,Clothing,2856,35,S0428,3.4,3903,0.33,No,I love this product!,Neutral,4.3,1270,0.08,Yes,No,China,Yes,262,Yes,No,No,0
+P0429,Adidas T-Shirt,Nike,Accessories,70826,59,S0429,1.5,2015,0.39,No,Worth the price.,Neutral,3.2,405,0.96,Yes,Yes,India,Yes,406,Yes,No,Yes,1
+P0430,Ray-Ban Sunglasses,Adidas,Accessories,92947,10,S0430,1.4,2026,0.23,Yes,The product stopped working in 2 days.,Neutral,4.4,844,0.25,Yes,No,USA,Yes,188,No,Yes,No,1
+P0431,Apple iPhone,Apple,Electronics,90399,62,S0431,4.6,9398,0.32,Yes,Packaging looks authentic.,Neutral,2.7,1783,0.86,No,No,Vietnam,No,454,Yes,No,Yes,1
+P0432,Nike Shoes,Nike,Shoes,20549,20,S0432,3.7,1782,0.12,Yes,Suspicious branding on packaging.,Negative,2.5,1565,0.17,Yes,Yes,India,No,365,No,Yes,Yes,1
+P0433,Ray-Ban Sunglasses,Apple,Shoes,76217,51,S0433,4.3,8363,0.35,No,The logo is slightly different.,Neutral,4.7,1185,0.85,No,No,India,Yes,289,Yes,Yes,Yes,1
+P0434,Rolex Watch,Rolex,Electronics,16582,54,S0434,4.5,3986,0.21,No,Seller is reliable and product is genuine.,Negative,2.0,747,0.01,Yes,Yes,Vietnam,Yes,361,No,No,No,0
+P0435,Ray-Ban Sunglasses,Adidas,Accessories,1161,25,S0435,3.3,1761,0.22,Yes,Worth the price.,Neutral,4.4,1726,0.51,Yes,Yes,Germany,Yes,402,Yes,Yes,Yes,1
+P0436,Ray-Ban Sunglasses,Nike,Clothing,37912,67,S0436,3.1,8977,0.32,Yes,The product stopped working in 2 days.,Neutral,2.9,3189,0.77,No,Yes,Vietnam,No,57,Yes,Yes,No,1
+P0437,Apple iPhone,Nike,Electronics,3420,33,S0437,2.7,7440,0.47,No,The logo is slightly different.,Neutral,3.1,271,0.93,No,Yes,Vietnam,Yes,8,Yes,Yes,No,1
+P0438,Rolex Watch,Nike,Clothing,91694,51,S0438,2.3,7180,0.03,Yes,Worth the price.,Neutral,2.2,4866,0.91,Yes,No,Germany,Yes,303,No,Yes,No,0
+P0439,Ray-Ban Sunglasses,Nike,Accessories,60815,51,S0439,2.7,6479,0.41,No,Looks fake compared to original.,Neutral,3.3,3957,0.82,Yes,Yes,Germany,Yes,114,Yes,No,No,0
+P0440,Nike Shoes,Nike,Shoes,80061,28,S0440,4.1,9141,0.15,No,Highly recommended!,Negative,2.3,172,0.89,Yes,No,Germany,No,209,Yes,Yes,No,1
+P0441,Nike Shoes,Apple,Accessories,9446,37,S0441,3.4,3230,0.22,Yes,Suspicious branding on packaging.,Neutral,1.2,274,0.2,No,No,Germany,Yes,40,No,No,Yes,1
+P0442,Adidas T-Shirt,Adidas,Electronics,94742,41,S0442,4.6,549,0.01,No,The product stopped working in 2 days.,Negative,2.1,2307,0.28,No,Yes,Germany,No,303,No,Yes,Yes,0
+P0443,Rolex Watch,Rolex,Shoes,46000,20,S0443,2.8,1471,0.15,Yes,The logo is slightly different.,Neutral,1.0,1159,0.29,Yes,Yes,Vietnam,Yes,172,Yes,Yes,No,0
+P0444,Rolex Watch,Rolex,Electronics,16809,41,S0444,3.4,5194,0.25,Yes,Great quality product!,Neutral,4.9,1707,0.38,Yes,Yes,China,Yes,233,Yes,No,Yes,0
+P0445,Adidas T-Shirt,Rolex,Electronics,55730,12,S0445,3.5,8557,0.03,Yes,Looks fake compared to original.,Neutral,4.9,1772,0.39,No,Yes,China,Yes,280,Yes,Yes,No,0
+P0446,Ray-Ban Sunglasses,Rolex,Accessories,99156,63,S0446,3.4,244,0.25,Yes,Highly recommended!,Neutral,2.6,422,0.54,Yes,No,USA,No,371,Yes,Yes,Yes,1
+P0447,Rolex Watch,Apple,Electronics,30527,16,S0447,3.8,1558,0.46,Yes,The product stopped working in 2 days.,Neutral,3.9,1210,0.16,No,Yes,China,Yes,77,No,Yes,Yes,0
+P0448,Nike Shoes,Ray-Ban,Accessories,73041,8,S0448,1.9,7490,0.05,Yes,The product stopped working in 2 days.,Neutral,2.4,4676,0.69,No,No,China,Yes,107,Yes,Yes,Yes,1
+P0449,Nike Shoes,Adidas,Shoes,59821,40,S0449,3.0,4223,0.38,No,Best deal in the market!,Positive,3.7,891,0.17,No,Yes,Vietnam,No,280,Yes,Yes,Yes,1
+P0450,Apple iPhone,Nike,Accessories,1456,0,S0450,1.4,1683,0.2,No,The logo is slightly different.,Neutral,4.2,4818,0.31,No,Yes,Germany,No,402,No,Yes,Yes,0
+P0451,Rolex Watch,Ray-Ban,Shoes,74631,1,S0451,2.5,6718,0.33,No,I love this product!,Neutral,4.8,3268,0.5,No,Yes,Germany,No,38,Yes,No,Yes,0
+P0452,Ray-Ban Sunglasses,Rolex,Accessories,48408,59,S0452,3.0,7992,0.13,No,Highly recommended!,Neutral,2.6,4977,0.8,No,Yes,Vietnam,Yes,118,Yes,No,Yes,0
+P0453,Adidas T-Shirt,Ray-Ban,Clothing,78839,47,S0453,3.6,2110,0.08,Yes,Not the original product.,Neutral,4.1,1474,0.74,Yes,No,China,No,334,Yes,No,Yes,0
+P0454,Adidas T-Shirt,Adidas,Clothing,26463,28,S0454,4.8,3758,0.08,No,Great quality product!,Neutral,2.1,3244,0.65,No,No,Vietnam,Yes,335,No,Yes,Yes,1
+P0455,Ray-Ban Sunglasses,Nike,Electronics,39943,9,S0455,3.4,3183,0.04,No,Seller is reliable and product is genuine.,Neutral,5.0,4479,0.16,No,Yes,USA,No,26,No,Yes,Yes,1
+P0456,Apple iPhone,Nike,Accessories,99759,57,S0456,4.0,1825,0.09,No,Seller is reliable and product is genuine.,Neutral,1.1,2182,0.55,Yes,No,Germany,No,103,Yes,Yes,Yes,1
+P0457,Adidas T-Shirt,Adidas,Accessories,39563,59,S0457,3.0,3851,0.33,Yes,Best deal in the market!,Neutral,3.4,1450,0.09,No,No,India,No,73,Yes,No,Yes,0
+P0458,Rolex Watch,Adidas,Shoes,81318,20,S0458,3.5,8026,0.44,No,Definitely a counterfeit item.,Neutral,3.6,3097,0.38,Yes,Yes,USA,Yes,190,No,Yes,Yes,1
+P0459,Apple iPhone,Rolex,Electronics,5203,27,S0459,1.3,7021,0.41,Yes,The product stopped working in 2 days.,Neutral,3.8,3257,0.41,No,Yes,USA,Yes,323,Yes,No,No,0
+P0460,Rolex Watch,Nike,Accessories,65628,33,S0460,2.0,4503,0.34,No,Seller is reliable and product is genuine.,Neutral,1.5,3157,0.04,Yes,No,Vietnam,Yes,498,Yes,Yes,Yes,1
+P0461,Nike Shoes,Ray-Ban,Electronics,72599,7,S0461,2.4,684,0.06,Yes,Worth the price.,Neutral,4.8,1591,0.27,Yes,No,China,Yes,146,No,Yes,Yes,0
+P0462,Apple iPhone,Apple,Clothing,26349,58,S0462,2.9,8098,0.14,Yes,Not the original product.,Neutral,1.7,4240,0.96,No,No,Germany,Yes,254,No,Yes,Yes,1
+P0463,Adidas T-Shirt,Apple,Accessories,32360,48,S0463,1.2,8588,0.15,No,Satisfactory purchase.,Neutral,3.5,3982,0.95,No,No,India,Yes,283,No,No,Yes,1
+P0464,Apple iPhone,Adidas,Accessories,32085,16,S0464,1.6,2168,0.12,Yes,I love this product!,Neutral,1.9,1436,0.35,No,Yes,USA,Yes,212,Yes,Yes,Yes,0
+P0465,Apple iPhone,Rolex,Electronics,22515,59,S0465,2.1,2671,0.26,Yes,The product stopped working in 2 days.,Neutral,2.2,224,0.04,No,Yes,India,Yes,122,Yes,No,Yes,1
+P0466,Apple iPhone,Apple,Accessories,78039,44,S0466,4.9,2074,0.27,No,Definitely a counterfeit item.,Negative,3.2,220,0.18,Yes,No,China,Yes,494,Yes,Yes,No,1
+P0467,Apple iPhone,Nike,Electronics,44085,68,S0467,2.3,3263,0.18,No,Seller is reliable and product is genuine.,Neutral,2.7,4275,0.39,Yes,Yes,China,No,205,Yes,Yes,No,0
+P0468,Rolex Watch,Adidas,Accessories,27458,31,S0468,2.9,4989,0.18,No,Great quality product!,Neutral,1.6,1655,0.95,Yes,No,India,No,416,No,No,No,0
+P0469,Nike Shoes,Ray-Ban,Shoes,26517,43,S0469,1.8,7713,0.41,Yes,The logo is slightly different.,Neutral,1.7,4529,0.14,No,No,Germany,Yes,239,Yes,Yes,Yes,0
+P0470,Ray-Ban Sunglasses,Adidas,Electronics,77207,64,S0470,3.4,8941,0.39,Yes,Highly recommended!,Positive,2.7,265,0.76,Yes,Yes,China,Yes,393,Yes,Yes,Yes,0
+P0471,Apple iPhone,Ray-Ban,Accessories,45850,7,S0471,2.1,1411,0.15,Yes,Best deal in the market!,Positive,4.0,954,0.11,No,No,India,Yes,338,No,Yes,Yes,0
+P0472,Adidas T-Shirt,Adidas,Clothing,12701,42,S0472,1.8,3269,0.46,No,Great quality product!,Negative,4.6,4525,0.98,No,No,USA,Yes,285,No,Yes,No,1
+P0473,Apple iPhone,Adidas,Accessories,29926,0,S0473,3.1,3933,0.48,Yes,Packaging looks authentic.,Neutral,1.3,3734,0.38,Yes,Yes,India,No,21,Yes,No,Yes,0
+P0474,Adidas T-Shirt,Adidas,Clothing,18278,50,S0474,1.0,4224,0.16,Yes,Best deal in the market!,Positive,2.6,2775,0.78,No,Yes,India,No,258,No,No,Yes,1
+P0475,Rolex Watch,Ray-Ban,Clothing,45741,23,S0475,1.0,3237,0.18,Yes,Highly recommended!,Negative,1.4,3125,0.34,Yes,No,Vietnam,Yes,356,No,Yes,No,1
+P0476,Adidas T-Shirt,Ray-Ban,Shoes,42729,23,S0476,1.9,2755,0.25,Yes,The product stopped working in 2 days.,Neutral,1.1,480,0.63,No,No,China,No,104,Yes,Yes,No,0
+P0477,Ray-Ban Sunglasses,Adidas,Electronics,87152,16,S0477,1.1,6101,0.47,Yes,Worth the price.,Neutral,3.6,3515,0.19,Yes,Yes,Germany,No,465,Yes,No,Yes,1
+P0478,Nike Shoes,Apple,Accessories,48864,4,S0478,1.4,3876,0.44,Yes,Not the original product.,Neutral,3.4,1354,0.15,No,No,Germany,Yes,458,Yes,Yes,Yes,1
+P0479,Adidas T-Shirt,Rolex,Shoes,99333,19,S0479,2.4,5828,0.05,Yes,Worth the price.,Neutral,1.7,3323,0.94,Yes,No,Vietnam,Yes,431,Yes,No,Yes,0
+P0480,Adidas T-Shirt,Rolex,Accessories,85378,20,S0480,4.2,2232,0.2,No,Packaging looks authentic.,Positive,1.9,3879,0.92,Yes,Yes,Germany,Yes,257,No,Yes,Yes,1
+P0481,Nike Shoes,Rolex,Clothing,57556,57,S0481,3.3,2802,0.28,No,Worth the price.,Neutral,1.1,890,0.89,No,Yes,India,Yes,203,No,No,No,0
+P0482,Ray-Ban Sunglasses,Ray-Ban,Electronics,27990,30,S0482,3.1,9899,0.25,No,Cheap materials used.,Neutral,4.3,3855,0.63,No,Yes,Vietnam,No,309,Yes,No,Yes,0
+P0483,Apple iPhone,Ray-Ban,Accessories,20475,10,S0483,2.2,4073,0.1,Yes,I love this product!,Negative,4.9,925,0.81,Yes,Yes,USA,Yes,261,Yes,No,Yes,0
+P0484,Adidas T-Shirt,Apple,Accessories,27223,51,S0484,4.7,1534,0.43,Yes,Suspicious branding on packaging.,Neutral,1.5,2171,0.07,No,Yes,China,No,106,No,No,No,1
+P0485,Nike Shoes,Rolex,Clothing,23779,14,S0485,2.6,8234,0.34,No,I love this product!,Neutral,1.9,1903,0.33,No,Yes,China,Yes,250,Yes,Yes,Yes,1
+P0486,Rolex Watch,Rolex,Accessories,78801,6,S0486,1.3,6208,0.42,Yes,Definitely a counterfeit item.,Neutral,4.5,4874,0.31,No,No,China,No,423,Yes,Yes,Yes,1
+P0487,Nike Shoes,Adidas,Accessories,12061,27,S0487,3.5,4035,0.43,No,Would not recommend this seller.,Neutral,4.7,2396,0.64,Yes,No,India,Yes,491,Yes,No,No,1
+P0488,Rolex Watch,Ray-Ban,Clothing,66561,50,S0488,1.5,2576,0.37,Yes,Highly recommended!,Negative,2.7,29,0.36,Yes,Yes,USA,Yes,220,Yes,No,No,0
+P0489,Ray-Ban Sunglasses,Rolex,Shoes,88897,57,S0489,2.4,2813,0.22,Yes,Would not recommend this seller.,Neutral,1.2,35,0.15,No,Yes,Vietnam,No,378,No,No,Yes,1
+P0490,Apple iPhone,Apple,Clothing,49653,4,S0490,3.0,3719,0.31,No,Looks fake compared to original.,Neutral,1.2,3590,0.6,No,No,Vietnam,No,221,Yes,No,No,0
+P0491,Nike Shoes,Apple,Shoes,33642,4,S0491,4.5,6165,0.08,No,Looks fake compared to original.,Positive,3.3,2671,0.81,Yes,No,China,No,257,No,Yes,No,1
+P0492,Adidas T-Shirt,Rolex,Electronics,27416,7,S0492,3.0,729,0.34,No,Definitely a counterfeit item.,Positive,2.6,3366,0.38,No,No,USA,Yes,200,Yes,No,Yes,1
+P0493,Ray-Ban Sunglasses,Ray-Ban,Shoes,64824,63,S0493,3.8,6526,0.09,No,Suspicious branding on packaging.,Negative,1.1,589,0.13,Yes,Yes,USA,No,366,Yes,No,No,1
+P0494,Nike Shoes,Apple,Shoes,45465,9,S0494,5.0,4589,0.35,No,The product stopped working in 2 days.,Neutral,3.3,3219,0.2,No,Yes,USA,No,257,No,No,Yes,1
+P0495,Adidas T-Shirt,Adidas,Electronics,5148,37,S0495,1.5,982,0.11,Yes,Satisfactory purchase.,Neutral,1.0,3139,0.24,No,No,Germany,No,348,Yes,No,Yes,1
+P0496,Nike Shoes,Apple,Shoes,35633,7,S0496,2.1,3728,0.06,Yes,Looks fake compared to original.,Neutral,4.1,904,0.3,No,Yes,Germany,No,224,No,No,Yes,0
+P0497,Rolex Watch,Nike,Clothing,51177,24,S0497,2.6,7405,0.08,Yes,The logo is slightly different.,Neutral,2.2,4087,0.64,Yes,Yes,China,No,201,Yes,No,Yes,1
+P0498,Nike Shoes,Nike,Shoes,96559,65,S0498,2.7,4412,0.0,No,Packaging looks authentic.,Neutral,1.2,2170,0.6,Yes,Yes,USA,No,225,Yes,No,No,1
+P0499,Nike Shoes,Ray-Ban,Electronics,95088,49,S0499,2.6,4562,0.36,No,Would not recommend this seller.,Neutral,3.4,340,0.7,Yes,No,USA,No,235,Yes,Yes,Yes,1
+P0500,Nike Shoes,Rolex,Clothing,98817,66,S0500,4.6,2217,0.37,No,Definitely a counterfeit item.,Neutral,2.6,4271,0.36,Yes,No,Vietnam,No,182,Yes,No,Yes,1
